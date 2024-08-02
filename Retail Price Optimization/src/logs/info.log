@@ -1,0 +1,2459 @@
+INFO 2023-01-04 03:45:03,905 [root:make_dataset.py:load_dataset:21]
+✅ Loaded data!
+
+INFO 2023-01-04 03:46:25,677 [root:main.py:ingest:18]
+Ingesting data...
+
+INFO 2023-01-04 03:46:25,972 [root:main.py:ingest:21]
+✅ Ingested data!
+
+INFO 2023-01-04 03:46:40,112 [root:main.py:ingest:18]
+Ingesting data...
+
+INFO 2023-01-04 03:46:40,433 [root:main.py:ingest:22]
+✅ Ingested data!
+
+INFO 2023-01-04 03:47:23,822 [root:main.py:ingest:18]
+Ingesting data...
+
+INFO 2023-01-04 03:47:32,062 [root:main.py:ingest:18]
+Ingesting data...
+
+INFO 2023-01-04 03:48:22,464 [root:main.py:ingest:18]
+Ingesting data...
+
+INFO 2023-01-04 03:48:34,715 [root:main.py:ingest:18]
+Ingesting data...
+
+INFO 2023-01-04 03:48:35,049 [root:main.py:ingest:22]
+✅ Ingested data!
+
+INFO 2023-01-04 03:53:28,424 [root:main.py:encode:31]
+Encoding categorical columns...
+
+INFO 2023-01-04 03:53:36,482 [root:main.py:encode:31]
+Encoding categorical columns...
+
+INFO 2023-01-04 03:53:37,021 [root:main.py:encode:39]
+✅ Encoded categorical columns!
+
+INFO 2023-01-04 03:54:09,402 [root:main.py:ingest:18]
+Ingesting data...
+
+INFO 2023-01-04 03:54:09,712 [root:main.py:ingest:22]
+✅ Ingested data!
+
+INFO 2023-01-04 03:54:17,403 [root:main.py:encode:31]
+Encoding categorical columns...
+
+INFO 2023-01-04 03:54:17,945 [root:main.py:encode:39]
+✅ Encoded categorical columns!
+
+INFO 2023-01-04 13:30:27,512 [root:main.py:ingest:20]
+Ingesting data...
+
+INFO 2023-01-04 13:30:27,824 [root:main.py:ingest:24]
+✅ Ingested data!
+
+INFO 2023-01-04 13:34:56,742 [root:main.py:build_features:49]
+Building features...
+
+INFO 2023-01-04 13:36:53,712 [root:main.py:build_features:49]
+Building features...
+
+INFO 2023-01-04 13:36:54,048 [root:main.py:build_features:55]
+✅ Built features!
+
+INFO 2023-01-04 13:38:27,559 [root:main.py:build_features:49]
+Building features...
+
+INFO 2023-01-04 13:39:04,896 [root:main.py:build_features:49]
+Building features...
+
+INFO 2023-01-04 13:39:05,237 [root:main.py:build_features:55]
+✅ Built features!
+
+INFO 2023-01-04 13:43:05,567 [root:main.py:ingest:15]
+Ingesting data...
+
+INFO 2023-01-04 13:43:30,399 [root:main.py:ingest:15]
+Ingesting data...
+
+INFO 2023-01-04 13:43:30,739 [root:main.py:ingest:19]
+✅ Ingested data!
+
+INFO 2023-01-04 13:43:30,741 [root:main.py:encode:27]
+Encoding categorical columns...
+
+INFO 2023-01-04 13:43:30,975 [root:main.py:encode:33]
+✅ Encoded categorical columns!
+
+INFO 2023-01-04 13:43:30,981 [root:main.py:build_features:41]
+Building features...
+
+INFO 2023-01-04 13:43:30,997 [root:main.py:build_features:45]
+✅ Built features!
+
+INFO 2023-01-04 13:46:46,376 [root:main.py:build:49]
+Building features...
+
+INFO 2023-01-04 13:46:46,700 [root:main.py:build:55]
+✅ Built features!
+
+INFO 2023-01-04 13:48:59,461 [root:main.py:build:47]
+Building features...
+
+INFO 2023-01-04 13:48:59,465 [root:main.py:encode:32]
+Encoding categorical columns...
+
+INFO 2023-01-04 13:48:59,466 [root:main.py:ingest:20]
+Ingesting data...
+
+INFO 2023-01-04 13:48:59,765 [root:main.py:ingest:23]
+✅ Ingested data!
+
+INFO 2023-01-04 13:49:00,004 [root:main.py:encode:38]
+✅ Encoded categorical columns!
+
+INFO 2023-01-04 13:49:00,024 [root:main.py:build:52]
+✅ Built features!
+
+INFO 2023-01-04 13:51:16,705 [root:main.py:build:48]
+Building features...
+
+INFO 2023-01-04 13:51:16,709 [root:main.py:encode:32]
+Encoding categorical columns...
+
+INFO 2023-01-04 13:51:16,710 [root:main.py:ingest:20]
+Ingesting data...
+
+INFO 2023-01-04 13:51:17,005 [root:main.py:ingest:23]
+✅ Ingested data!
+
+INFO 2023-01-04 13:51:17,223 [root:main.py:encode:39]
+✅ Encoded categorical columns!
+
+INFO 2023-01-04 13:51:17,244 [root:main.py:build:53]
+✅ Built features!
+
+INFO 2023-01-04 14:13:51,984 [root:main.py:buildmodel:63]
+Building model...
+
+INFO 2023-01-04 14:13:51,987 [root:main.py:buildfeature:49]
+Building features...
+
+INFO 2023-01-04 14:13:51,988 [root:main.py:encode:33]
+Encoding categorical columns...
+
+INFO 2023-01-04 14:13:51,989 [root:main.py:ingest:21]
+Ingesting data...
+
+INFO 2023-01-04 14:13:52,311 [root:main.py:ingest:24]
+✅ Ingested data!
+
+INFO 2023-01-04 14:13:52,536 [root:main.py:encode:40]
+✅ Encoded categorical columns!
+
+INFO 2023-01-04 14:13:52,557 [root:main.py:buildfeature:54]
+✅ Built features!
+
+INFO 2023-01-04 14:16:48,526 [root:main.py:buildmodel:74]
+Building model...
+
+INFO 2023-01-04 14:16:48,530 [root:main.py:buildfeature:61]
+Building features...
+
+INFO 2023-01-04 14:16:48,531 [root:main.py:process:48]
+Processing data...
+
+INFO 2023-01-04 14:16:48,532 [root:main.py:encode:33]
+Encoding categorical columns...
+
+INFO 2023-01-04 14:16:48,533 [root:main.py:ingest:21]
+Ingesting data...
+
+INFO 2023-01-04 14:16:48,835 [root:main.py:ingest:24]
+✅ Ingested data!
+
+INFO 2023-01-04 14:16:49,043 [root:main.py:encode:39]
+✅ Encoded categorical columns!
+
+INFO 2023-01-04 14:17:15,194 [root:main.py:buildmodel:74]
+Building model...
+
+INFO 2023-01-04 14:17:15,198 [root:main.py:buildfeature:61]
+Building features...
+
+INFO 2023-01-04 14:17:15,199 [root:main.py:process:48]
+Processing data...
+
+INFO 2023-01-04 14:17:15,200 [root:main.py:encode:33]
+Encoding categorical columns...
+
+INFO 2023-01-04 14:17:15,200 [root:main.py:ingest:21]
+Ingesting data...
+
+INFO 2023-01-04 14:17:15,508 [root:main.py:ingest:24]
+✅ Ingested data!
+
+INFO 2023-01-04 14:17:15,730 [root:main.py:encode:39]
+✅ Encoded categorical columns!
+
+INFO 2023-01-04 14:17:15,805 [root:main.py:process:52]
+✅ Processed data!
+
+INFO 2023-01-04 14:17:15,810 [root:main.py:buildfeature:65]
+✅ Built features!
+
+INFO 2023-01-04 14:18:37,565 [root:main.py:buildmodel:76]
+Building model...
+
+INFO 2023-01-04 14:18:37,569 [root:main.py:buildfeature:63]
+Building features...
+
+INFO 2023-01-04 14:18:37,569 [root:main.py:process:48]
+Processing data...
+
+INFO 2023-01-04 14:18:37,570 [root:main.py:encode:33]
+Encoding categorical columns...
+
+INFO 2023-01-04 14:18:37,571 [root:main.py:ingest:21]
+Ingesting data...
+
+INFO 2023-01-04 14:18:37,952 [root:main.py:ingest:24]
+✅ Ingested data!
+
+INFO 2023-01-04 14:18:38,157 [root:main.py:encode:39]
+✅ Encoded categorical columns!
+
+INFO 2023-01-04 14:18:38,215 [root:main.py:process:54]
+✅ Processed data!
+
+INFO 2023-01-04 14:18:38,220 [root:main.py:buildfeature:67]
+✅ Built features!
+
+INFO 2023-01-04 14:19:13,672 [root:main.py:buildmodel:76]
+Building model...
+
+INFO 2023-01-04 14:19:13,676 [root:main.py:buildfeature:63]
+Building features...
+
+INFO 2023-01-04 14:19:13,677 [root:main.py:process:48]
+Processing data...
+
+INFO 2023-01-04 14:19:13,678 [root:main.py:encode:33]
+Encoding categorical columns...
+
+INFO 2023-01-04 14:19:13,679 [root:main.py:ingest:21]
+Ingesting data...
+
+INFO 2023-01-04 14:19:13,960 [root:main.py:ingest:24]
+✅ Ingested data!
+
+INFO 2023-01-04 14:19:14,178 [root:main.py:encode:39]
+✅ Encoded categorical columns!
+
+INFO 2023-01-04 14:19:14,243 [root:main.py:process:54]
+✅ Processed data!
+
+INFO 2023-01-04 14:19:14,248 [root:main.py:buildfeature:67]
+✅ Built features!
+
+INFO 2023-01-04 14:20:03,902 [root:main.py:buildmodel:76]
+Building model...
+
+INFO 2023-01-04 14:20:03,906 [root:main.py:buildfeature:63]
+Building features...
+
+INFO 2023-01-04 14:20:03,907 [root:main.py:process:48]
+Processing data...
+
+INFO 2023-01-04 14:20:03,908 [root:main.py:encode:33]
+Encoding categorical columns...
+
+INFO 2023-01-04 14:20:03,909 [root:main.py:ingest:21]
+Ingesting data...
+
+INFO 2023-01-04 14:20:04,308 [root:main.py:ingest:24]
+✅ Ingested data!
+
+INFO 2023-01-04 14:20:04,528 [root:main.py:encode:39]
+✅ Encoded categorical columns!
+
+INFO 2023-01-04 14:20:04,599 [root:main.py:process:54]
+✅ Processed data!
+
+INFO 2023-01-04 14:20:04,604 [root:main.py:buildfeature:67]
+✅ Built features!
+
+INFO 2023-01-04 14:20:04,995 [root:build_model.py:build_model:19]
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:                  sales   R-squared:                       0.965
+Model:                            OLS   Adj. R-squared:                  0.965
+Method:                 Least Squares   F-statistic:                 3.540e+05
+Date:                Wed, 04 Jan 2023   Prob (F-statistic):               0.00
+Time:                        14:20:04   Log-Likelihood:            -1.0171e+06
+No. Observations:              168000   AIC:                         2.034e+06
+Df Residuals:                  167986   BIC:                         2.034e+06
+Df Model:                          13                                         
+Covariance Type:            nonrobust                                         
+=================================================================================
+                    coef    std err          t      P>|t|      [0.025      0.975]
+---------------------------------------------------------------------------------
+const          1246.8756      3.613    345.084      0.000    1239.794    1253.957
+id              2.22e-05      0.000      0.153      0.879      -0.000       0.000
+sku_id          1.73e+06   2.51e+06      0.689      0.491   -3.19e+06    6.66e+06
+price          -395.8147      0.763   -519.040      0.000    -397.309    -394.320
+sku_name       -1.73e+06   2.51e+06     -0.689      0.491   -6.66e+06    3.19e+06
+gender           -6.1311      0.522    -11.736      0.000      -7.155      -5.107
+category         -1.8891      0.127    -14.902      0.000      -2.138      -1.641
+brand            -2.5544      0.242    -10.558      0.000      -3.029      -2.080
+collection       -4.9157      0.293    -16.757      0.000      -5.491      -4.341
+price_tier       -1.1906      0.313     -3.803      0.000      -1.804      -0.577
+style            -3.1414      0.511     -6.149      0.000      -4.143      -2.140
+cost           2.399e+10   3.48e+10      0.689      0.491   -4.43e+10    9.23e+10
+revenue       -2.399e+10   3.48e+10     -0.689      0.491   -9.23e+10    4.43e+10
+profit         2.399e+10   3.48e+10      0.689      0.491   -4.43e+10    9.23e+10
+profit_margin  -478.2032      2.688   -177.882      0.000    -483.472    -472.934
+sales_change      0.0171      0.002      8.754      0.000       0.013       0.021
+==============================================================================
+Omnibus:                    49222.197   Durbin-Watson:                   0.068
+Prob(Omnibus):                  0.000   Jarque-Bera (JB):           314341.457
+Skew:                           1.258   Prob(JB):                         0.00
+Kurtosis:                       9.211   Cond. No.                     4.29e+17
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
+[2] The smallest eigenvalue is 1.51e-23. This might indicate that there are
+strong multicollinearity problems or that the design matrix is singular.
+
+INFO 2023-01-04 14:20:05,015 [root:main.py:buildmodel:84]
+✅ Built model!
+
+INFO 2023-01-04 14:51:11,684 [root:main.py:buildmodel:77]
+Building model...
+
+INFO 2023-01-04 14:51:11,688 [root:main.py:buildfeature:64]
+Building features...
+
+INFO 2023-01-04 14:51:11,689 [root:main.py:process:48]
+Processing data...
+
+INFO 2023-01-04 14:51:11,689 [root:main.py:encode:33]
+Encoding categorical columns...
+
+INFO 2023-01-04 14:51:11,690 [root:main.py:ingest:21]
+Ingesting data...
+
+INFO 2023-01-04 14:51:12,087 [root:main.py:ingest:24]
+✅ Ingested data!
+
+INFO 2023-01-04 14:51:12,294 [root:main.py:encode:39]
+✅ Encoded categorical columns!
+
+INFO 2023-01-04 14:51:12,357 [root:main.py:process:55]
+✅ Processed data!
+
+INFO 2023-01-04 14:51:12,362 [root:main.py:buildfeature:68]
+✅ Built features!
+
+INFO 2023-01-04 14:51:12,730 [root:build_model.py:build_model:19]
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:                  sales   R-squared:                       0.965
+Model:                            OLS   Adj. R-squared:                  0.965
+Method:                 Least Squares   F-statistic:                 3.835e+05
+Date:                Wed, 04 Jan 2023   Prob (F-statistic):               0.00
+Time:                        14:51:12   Log-Likelihood:            -1.0171e+06
+No. Observations:              168000   AIC:                         2.034e+06
+Df Residuals:                  167987   BIC:                         2.034e+06
+Df Model:                          12                                         
+Covariance Type:            nonrobust                                         
+=================================================================================
+                    coef    std err          t      P>|t|      [0.025      0.975]
+---------------------------------------------------------------------------------
+const          1245.8877      3.682    338.390      0.000    1238.671    1253.104
+price          -395.3446      0.865   -456.851      0.000    -397.041    -393.648
+sku_name          0.0035      0.002      1.574      0.115      -0.001       0.008
+gender           -6.1366      0.522    -11.765      0.000      -7.159      -5.114
+category         -1.8688      0.128    -14.597      0.000      -2.120      -1.618
+brand            -2.5144      0.244    -10.294      0.000      -2.993      -2.036
+collection       -4.8929      0.293    -16.685      0.000      -5.468      -4.318
+price_tier       -1.1926      0.313     -3.810      0.000      -1.806      -0.579
+style            -3.1235      0.511     -6.112      0.000      -4.125      -2.122
+cost           4.351e+10   3.52e+10      1.238      0.216   -2.54e+10    1.12e+11
+revenue       -4.351e+10   3.52e+10     -1.238      0.216   -1.12e+11    2.54e+10
+profit         4.351e+10   3.52e+10      1.238      0.216   -2.54e+10    1.12e+11
+profit_margin  -478.2004      2.688   -177.890      0.000    -483.469    -472.932
+sales_change      0.0171      0.002      8.754      0.000       0.013       0.021
+==============================================================================
+Omnibus:                    49223.889   Durbin-Watson:                   0.069
+Prob(Omnibus):                  0.000   Jarque-Bera (JB):           315073.656
+Skew:                           1.257   Prob(JB):                         0.00
+Kurtosis:                       9.220   Cond. No.                     4.44e+14
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
+[2] The smallest eigenvalue is 2.87e-18. This might indicate that there are
+strong multicollinearity problems or that the design matrix is singular.
+
+INFO 2023-01-04 14:51:12,750 [root:main.py:buildmodel:85]
+✅ Built model!
+
+INFO 2023-01-04 14:59:20,065 [root:main.py:buildmodel:80]
+Building model...
+
+INFO 2023-01-04 14:59:20,072 [root:main.py:buildfeature:65]
+Building features...
+
+INFO 2023-01-04 14:59:20,073 [root:main.py:process:49]
+Processing data...
+
+INFO 2023-01-04 14:59:20,075 [root:main.py:encode:34]
+Encoding categorical columns...
+
+INFO 2023-01-04 14:59:20,077 [root:main.py:ingest:22]
+Ingesting data...
+
+INFO 2023-01-04 14:59:20,417 [root:main.py:ingest:25]
+✅ Ingested data!
+
+INFO 2023-01-04 14:59:20,633 [root:main.py:encode:40]
+✅ Encoded categorical columns!
+
+INFO 2023-01-04 14:59:20,701 [root:main.py:process:56]
+✅ Processed data!
+
+INFO 2023-01-04 14:59:20,727 [root:main.py:buildfeature:71]
+✅ Built features!
+
+INFO 2023-01-04 14:59:20,973 [root:build_model.py:build_model:19]
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:                  sales   R-squared:                       0.965
+Model:                            OLS   Adj. R-squared:                  0.965
+Method:                 Least Squares   F-statistic:                 2.825e+05
+Date:                Wed, 04 Jan 2023   Prob (F-statistic):               0.00
+Time:                        14:59:20   Log-Likelihood:            -8.1402e+05
+No. Observations:              134400   AIC:                         1.628e+06
+Df Residuals:                  134386   BIC:                         1.628e+06
+Df Model:                          13                                         
+Covariance Type:            nonrobust                                         
+=================================================================================
+                    coef    std err          t      P>|t|      [0.025      0.975]
+---------------------------------------------------------------------------------
+const          1250.9485      4.022    311.060      0.000    1243.066    1258.831
+price          -396.6802      0.852   -465.542      0.000    -398.350    -395.010
+sku_name          0.0038      0.002      1.536      0.125      -0.001       0.009
+gender           -6.4052      0.584    -10.960      0.000      -7.551      -5.260
+category         -1.9285      0.142    -13.573      0.000      -2.207      -1.650
+brand            -2.5182      0.271     -9.286      0.000      -3.050      -1.987
+collection       -4.9152      0.328    -14.972      0.000      -5.559      -4.272
+price_tier       -1.1401      0.351     -3.249      0.001      -1.828      -0.452
+style            -3.5533      0.572     -6.208      0.000      -4.675      -2.432
+cost           8.567e+09   2.28e+10      0.376      0.707   -3.61e+10    5.33e+10
+revenue       -8.567e+09   2.28e+10     -0.376      0.707   -5.33e+10    3.61e+10
+profit         8.567e+09   2.28e+10      0.376      0.707   -3.61e+10    5.33e+10
+profit_margin  -480.1747      3.021   -158.949      0.000    -486.096    -474.254
+sales_change      0.0192      0.002      8.860      0.000       0.015       0.023
+==============================================================================
+Omnibus:                    40716.266   Durbin-Watson:                   1.996
+Prob(Omnibus):                  0.000   Jarque-Bera (JB):           266716.159
+Skew:                           1.298   Prob(JB):                         0.00
+Kurtosis:                       9.394   Cond. No.                     2.57e+14
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
+[2] The smallest eigenvalue is 6.84e-18. This might indicate that there are
+strong multicollinearity problems or that the design matrix is singular.
+
+INFO 2023-01-04 14:59:20,993 [root:main.py:buildmodel:84]
+✅ Built model!
+
+INFO 2023-01-04 15:12:07,196 [root:main.py:buildmodel:82]
+Building model...
+
+INFO 2023-01-04 15:12:07,199 [root:main.py:buildfeature:67]
+Building features...
+
+INFO 2023-01-04 15:12:07,200 [root:main.py:process:51]
+Processing data...
+
+INFO 2023-01-04 15:12:07,201 [root:main.py:encode:36]
+Encoding categorical columns...
+
+INFO 2023-01-04 15:12:07,201 [root:main.py:ingest:24]
+Ingesting data...
+
+INFO 2023-01-04 15:12:07,526 [root:main.py:ingest:27]
+✅ Ingested data!
+
+INFO 2023-01-04 15:12:07,747 [root:main.py:encode:42]
+✅ Encoded categorical columns!
+
+INFO 2023-01-04 15:12:07,808 [root:main.py:process:58]
+✅ Processed data!
+
+INFO 2023-01-04 15:12:07,834 [root:main.py:buildfeature:73]
+✅ Built features!
+
+INFO 2023-01-04 15:12:08,116 [root:build_model.py:build_model:19]
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:                  sales   R-squared:                       0.965
+Model:                            OLS   Adj. R-squared:                  0.965
+Method:                 Least Squares   F-statistic:                 2.825e+05
+Date:                Wed, 04 Jan 2023   Prob (F-statistic):               0.00
+Time:                        15:12:08   Log-Likelihood:            -8.1402e+05
+No. Observations:              134400   AIC:                         1.628e+06
+Df Residuals:                  134386   BIC:                         1.628e+06
+Df Model:                          13                                         
+Covariance Type:            nonrobust                                         
+=================================================================================
+                    coef    std err          t      P>|t|      [0.025      0.975]
+---------------------------------------------------------------------------------
+const          1250.9485      4.022    311.060      0.000    1243.066    1258.831
+price          -396.6802      0.852   -465.542      0.000    -398.350    -395.010
+sku_name          0.0038      0.002      1.536      0.125      -0.001       0.009
+gender           -6.4052      0.584    -10.960      0.000      -7.551      -5.260
+category         -1.9285      0.142    -13.573      0.000      -2.207      -1.650
+brand            -2.5182      0.271     -9.286      0.000      -3.050      -1.987
+collection       -4.9152      0.328    -14.972      0.000      -5.559      -4.272
+price_tier       -1.1401      0.351     -3.249      0.001      -1.828      -0.452
+style            -3.5533      0.572     -6.208      0.000      -4.675      -2.432
+cost           8.567e+09   2.28e+10      0.376      0.707   -3.61e+10    5.33e+10
+revenue       -8.567e+09   2.28e+10     -0.376      0.707   -5.33e+10    3.61e+10
+profit         8.567e+09   2.28e+10      0.376      0.707   -3.61e+10    5.33e+10
+profit_margin  -480.1747      3.021   -158.949      0.000    -486.096    -474.254
+sales_change      0.0192      0.002      8.860      0.000       0.015       0.023
+==============================================================================
+Omnibus:                    40716.266   Durbin-Watson:                   1.996
+Prob(Omnibus):                  0.000   Jarque-Bera (JB):           266716.159
+Skew:                           1.298   Prob(JB):                         0.00
+Kurtosis:                       9.394   Cond. No.                     2.57e+14
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
+[2] The smallest eigenvalue is 6.84e-18. This might indicate that there are
+strong multicollinearity problems or that the design matrix is singular.
+
+INFO 2023-01-04 15:12:44,143 [root:main.py:buildmodel:82]
+Building model...
+
+INFO 2023-01-04 15:12:44,146 [root:main.py:buildfeature:67]
+Building features...
+
+INFO 2023-01-04 15:12:44,147 [root:main.py:process:51]
+Processing data...
+
+INFO 2023-01-04 15:12:44,148 [root:main.py:encode:36]
+Encoding categorical columns...
+
+INFO 2023-01-04 15:12:44,149 [root:main.py:ingest:24]
+Ingesting data...
+
+INFO 2023-01-04 15:12:44,466 [root:main.py:ingest:27]
+✅ Ingested data!
+
+INFO 2023-01-04 15:12:44,673 [root:main.py:encode:42]
+✅ Encoded categorical columns!
+
+INFO 2023-01-04 15:12:44,745 [root:main.py:process:58]
+✅ Processed data!
+
+INFO 2023-01-04 15:12:44,771 [root:main.py:buildfeature:73]
+✅ Built features!
+
+INFO 2023-01-04 15:12:45,020 [root:build_model.py:build_model:19]
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:                  sales   R-squared:                       0.965
+Model:                            OLS   Adj. R-squared:                  0.965
+Method:                 Least Squares   F-statistic:                 2.825e+05
+Date:                Wed, 04 Jan 2023   Prob (F-statistic):               0.00
+Time:                        15:12:45   Log-Likelihood:            -8.1402e+05
+No. Observations:              134400   AIC:                         1.628e+06
+Df Residuals:                  134386   BIC:                         1.628e+06
+Df Model:                          13                                         
+Covariance Type:            nonrobust                                         
+=================================================================================
+                    coef    std err          t      P>|t|      [0.025      0.975]
+---------------------------------------------------------------------------------
+const          1250.9485      4.022    311.060      0.000    1243.066    1258.831
+price          -396.6802      0.852   -465.542      0.000    -398.350    -395.010
+sku_name          0.0038      0.002      1.536      0.125      -0.001       0.009
+gender           -6.4052      0.584    -10.960      0.000      -7.551      -5.260
+category         -1.9285      0.142    -13.573      0.000      -2.207      -1.650
+brand            -2.5182      0.271     -9.286      0.000      -3.050      -1.987
+collection       -4.9152      0.328    -14.972      0.000      -5.559      -4.272
+price_tier       -1.1401      0.351     -3.249      0.001      -1.828      -0.452
+style            -3.5533      0.572     -6.208      0.000      -4.675      -2.432
+cost           8.567e+09   2.28e+10      0.376      0.707   -3.61e+10    5.33e+10
+revenue       -8.567e+09   2.28e+10     -0.376      0.707   -5.33e+10    3.61e+10
+profit         8.567e+09   2.28e+10      0.376      0.707   -3.61e+10    5.33e+10
+profit_margin  -480.1747      3.021   -158.949      0.000    -486.096    -474.254
+sales_change      0.0192      0.002      8.860      0.000       0.015       0.023
+==============================================================================
+Omnibus:                    40716.266   Durbin-Watson:                   1.996
+Prob(Omnibus):                  0.000   Jarque-Bera (JB):           266716.159
+Skew:                           1.298   Prob(JB):                         0.00
+Kurtosis:                       9.394   Cond. No.                     2.57e+14
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
+[2] The smallest eigenvalue is 6.84e-18. This might indicate that there are
+strong multicollinearity problems or that the design matrix is singular.
+
+INFO 2023-01-04 15:12:45,206 [root:main.py:buildmodel:87]
+✅ Built model!
+
+INFO 2023-01-04 15:13:09,627 [root:main.py:buildmodel:82]
+Building model...
+
+INFO 2023-01-04 15:13:09,631 [root:main.py:buildfeature:67]
+Building features...
+
+INFO 2023-01-04 15:13:09,632 [root:main.py:process:51]
+Processing data...
+
+INFO 2023-01-04 15:13:09,632 [root:main.py:encode:36]
+Encoding categorical columns...
+
+INFO 2023-01-04 15:13:09,633 [root:main.py:ingest:24]
+Ingesting data...
+
+INFO 2023-01-04 15:13:09,932 [root:main.py:ingest:27]
+✅ Ingested data!
+
+INFO 2023-01-04 15:13:10,167 [root:main.py:encode:42]
+✅ Encoded categorical columns!
+
+INFO 2023-01-04 15:13:10,243 [root:main.py:process:58]
+✅ Processed data!
+
+INFO 2023-01-04 15:13:10,273 [root:main.py:buildfeature:73]
+✅ Built features!
+
+INFO 2023-01-04 15:13:10,516 [root:build_model.py:build_model:19]
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:                  sales   R-squared:                       0.965
+Model:                            OLS   Adj. R-squared:                  0.965
+Method:                 Least Squares   F-statistic:                 2.825e+05
+Date:                Wed, 04 Jan 2023   Prob (F-statistic):               0.00
+Time:                        15:13:10   Log-Likelihood:            -8.1402e+05
+No. Observations:              134400   AIC:                         1.628e+06
+Df Residuals:                  134386   BIC:                         1.628e+06
+Df Model:                          13                                         
+Covariance Type:            nonrobust                                         
+=================================================================================
+                    coef    std err          t      P>|t|      [0.025      0.975]
+---------------------------------------------------------------------------------
+const          1250.9485      4.022    311.060      0.000    1243.066    1258.831
+price          -396.6802      0.852   -465.542      0.000    -398.350    -395.010
+sku_name          0.0038      0.002      1.536      0.125      -0.001       0.009
+gender           -6.4052      0.584    -10.960      0.000      -7.551      -5.260
+category         -1.9285      0.142    -13.573      0.000      -2.207      -1.650
+brand            -2.5182      0.271     -9.286      0.000      -3.050      -1.987
+collection       -4.9152      0.328    -14.972      0.000      -5.559      -4.272
+price_tier       -1.1401      0.351     -3.249      0.001      -1.828      -0.452
+style            -3.5533      0.572     -6.208      0.000      -4.675      -2.432
+cost           8.567e+09   2.28e+10      0.376      0.707   -3.61e+10    5.33e+10
+revenue       -8.567e+09   2.28e+10     -0.376      0.707   -5.33e+10    3.61e+10
+profit         8.567e+09   2.28e+10      0.376      0.707   -3.61e+10    5.33e+10
+profit_margin  -480.1747      3.021   -158.949      0.000    -486.096    -474.254
+sales_change      0.0192      0.002      8.860      0.000       0.015       0.023
+==============================================================================
+Omnibus:                    40716.266   Durbin-Watson:                   1.996
+Prob(Omnibus):                  0.000   Jarque-Bera (JB):           266716.159
+Skew:                           1.298   Prob(JB):                         0.00
+Kurtosis:                       9.394   Cond. No.                     2.57e+14
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
+[2] The smallest eigenvalue is 6.84e-18. This might indicate that there are
+strong multicollinearity problems or that the design matrix is singular.
+
+INFO 2023-01-04 15:13:55,638 [root:main.py:buildmodel:82]
+Building model...
+
+INFO 2023-01-04 15:13:55,641 [root:main.py:buildfeature:67]
+Building features...
+
+INFO 2023-01-04 15:13:55,642 [root:main.py:process:51]
+Processing data...
+
+INFO 2023-01-04 15:13:55,643 [root:main.py:encode:36]
+Encoding categorical columns...
+
+INFO 2023-01-04 15:13:55,644 [root:main.py:ingest:24]
+Ingesting data...
+
+INFO 2023-01-04 15:13:55,930 [root:main.py:ingest:27]
+✅ Ingested data!
+
+INFO 2023-01-04 15:13:56,155 [root:main.py:encode:42]
+✅ Encoded categorical columns!
+
+INFO 2023-01-04 15:13:56,226 [root:main.py:process:58]
+✅ Processed data!
+
+INFO 2023-01-04 15:13:56,254 [root:main.py:buildfeature:73]
+✅ Built features!
+
+INFO 2023-01-04 15:13:56,511 [root:build_model.py:build_model:19]
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:                  sales   R-squared:                       0.965
+Model:                            OLS   Adj. R-squared:                  0.965
+Method:                 Least Squares   F-statistic:                 2.825e+05
+Date:                Wed, 04 Jan 2023   Prob (F-statistic):               0.00
+Time:                        15:13:56   Log-Likelihood:            -8.1402e+05
+No. Observations:              134400   AIC:                         1.628e+06
+Df Residuals:                  134386   BIC:                         1.628e+06
+Df Model:                          13                                         
+Covariance Type:            nonrobust                                         
+=================================================================================
+                    coef    std err          t      P>|t|      [0.025      0.975]
+---------------------------------------------------------------------------------
+const          1250.9485      4.022    311.060      0.000    1243.066    1258.831
+price          -396.6802      0.852   -465.542      0.000    -398.350    -395.010
+sku_name          0.0038      0.002      1.536      0.125      -0.001       0.009
+gender           -6.4052      0.584    -10.960      0.000      -7.551      -5.260
+category         -1.9285      0.142    -13.573      0.000      -2.207      -1.650
+brand            -2.5182      0.271     -9.286      0.000      -3.050      -1.987
+collection       -4.9152      0.328    -14.972      0.000      -5.559      -4.272
+price_tier       -1.1401      0.351     -3.249      0.001      -1.828      -0.452
+style            -3.5533      0.572     -6.208      0.000      -4.675      -2.432
+cost           8.567e+09   2.28e+10      0.376      0.707   -3.61e+10    5.33e+10
+revenue       -8.567e+09   2.28e+10     -0.376      0.707   -5.33e+10    3.61e+10
+profit         8.567e+09   2.28e+10      0.376      0.707   -3.61e+10    5.33e+10
+profit_margin  -480.1747      3.021   -158.949      0.000    -486.096    -474.254
+sales_change      0.0192      0.002      8.860      0.000       0.015       0.023
+==============================================================================
+Omnibus:                    40716.266   Durbin-Watson:                   1.996
+Prob(Omnibus):                  0.000   Jarque-Bera (JB):           266716.159
+Skew:                           1.298   Prob(JB):                         0.00
+Kurtosis:                       9.394   Cond. No.                     2.57e+14
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
+[2] The smallest eigenvalue is 6.84e-18. This might indicate that there are
+strong multicollinearity problems or that the design matrix is singular.
+
+INFO 2023-01-04 15:13:56,703 [root:main.py:buildmodel:87]
+✅ Built model!
+
+INFO 2023-01-04 15:14:34,408 [root:main.py:evaluatemodel:93]
+Evaluating model...
+
+INFO 2023-01-04 15:14:44,384 [root:main.py:evaluatemodel:93]
+Evaluating model...
+
+INFO 2023-01-04 15:14:59,011 [root:main.py:evaluatemodel:93]
+Evaluating model...
+
+INFO 2023-01-04 15:15:45,070 [root:main.py:buildmodel:82]
+Building model...
+
+INFO 2023-01-04 15:15:45,074 [root:main.py:buildfeature:67]
+Building features...
+
+INFO 2023-01-04 15:15:45,075 [root:main.py:process:51]
+Processing data...
+
+INFO 2023-01-04 15:15:45,076 [root:main.py:encode:36]
+Encoding categorical columns...
+
+INFO 2023-01-04 15:15:45,077 [root:main.py:ingest:24]
+Ingesting data...
+
+INFO 2023-01-04 15:15:45,444 [root:main.py:ingest:27]
+✅ Ingested data!
+
+INFO 2023-01-04 15:15:45,648 [root:main.py:encode:42]
+✅ Encoded categorical columns!
+
+INFO 2023-01-04 15:15:45,731 [root:main.py:process:58]
+✅ Processed data!
+
+INFO 2023-01-04 15:15:45,758 [root:main.py:buildfeature:73]
+✅ Built features!
+
+INFO 2023-01-04 15:15:46,009 [root:build_model.py:build_model:19]
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:                  sales   R-squared:                       0.965
+Model:                            OLS   Adj. R-squared:                  0.965
+Method:                 Least Squares   F-statistic:                 2.825e+05
+Date:                Wed, 04 Jan 2023   Prob (F-statistic):               0.00
+Time:                        15:15:46   Log-Likelihood:            -8.1402e+05
+No. Observations:              134400   AIC:                         1.628e+06
+Df Residuals:                  134386   BIC:                         1.628e+06
+Df Model:                          13                                         
+Covariance Type:            nonrobust                                         
+=================================================================================
+                    coef    std err          t      P>|t|      [0.025      0.975]
+---------------------------------------------------------------------------------
+const          1250.9485      4.022    311.060      0.000    1243.066    1258.831
+price          -396.6802      0.852   -465.542      0.000    -398.350    -395.010
+sku_name          0.0038      0.002      1.536      0.125      -0.001       0.009
+gender           -6.4052      0.584    -10.960      0.000      -7.551      -5.260
+category         -1.9285      0.142    -13.573      0.000      -2.207      -1.650
+brand            -2.5182      0.271     -9.286      0.000      -3.050      -1.987
+collection       -4.9152      0.328    -14.972      0.000      -5.559      -4.272
+price_tier       -1.1401      0.351     -3.249      0.001      -1.828      -0.452
+style            -3.5533      0.572     -6.208      0.000      -4.675      -2.432
+cost           8.567e+09   2.28e+10      0.376      0.707   -3.61e+10    5.33e+10
+revenue       -8.567e+09   2.28e+10     -0.376      0.707   -5.33e+10    3.61e+10
+profit         8.567e+09   2.28e+10      0.376      0.707   -3.61e+10    5.33e+10
+profit_margin  -480.1747      3.021   -158.949      0.000    -486.096    -474.254
+sales_change      0.0192      0.002      8.860      0.000       0.015       0.023
+==============================================================================
+Omnibus:                    40716.266   Durbin-Watson:                   1.996
+Prob(Omnibus):                  0.000   Jarque-Bera (JB):           266716.159
+Skew:                           1.298   Prob(JB):                         0.00
+Kurtosis:                       9.394   Cond. No.                     2.57e+14
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
+[2] The smallest eigenvalue is 6.84e-18. This might indicate that there are
+strong multicollinearity problems or that the design matrix is singular.
+
+INFO 2023-01-04 15:15:46,226 [root:main.py:buildmodel:87]
+✅ Built model!
+
+INFO 2023-01-04 15:16:04,695 [root:main.py:buildmodel:82]
+Building model...
+
+INFO 2023-01-04 15:16:04,699 [root:main.py:buildfeature:67]
+Building features...
+
+INFO 2023-01-04 15:16:04,700 [root:main.py:process:51]
+Processing data...
+
+INFO 2023-01-04 15:16:04,700 [root:main.py:encode:36]
+Encoding categorical columns...
+
+INFO 2023-01-04 15:16:04,701 [root:main.py:ingest:24]
+Ingesting data...
+
+INFO 2023-01-04 15:16:04,990 [root:main.py:ingest:27]
+✅ Ingested data!
+
+INFO 2023-01-04 15:16:05,205 [root:main.py:encode:42]
+✅ Encoded categorical columns!
+
+INFO 2023-01-04 15:16:05,278 [root:main.py:process:58]
+✅ Processed data!
+
+INFO 2023-01-04 15:16:05,302 [root:main.py:buildfeature:73]
+✅ Built features!
+
+INFO 2023-01-04 15:16:05,566 [root:build_model.py:build_model:19]
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:                  sales   R-squared:                       0.965
+Model:                            OLS   Adj. R-squared:                  0.965
+Method:                 Least Squares   F-statistic:                 2.825e+05
+Date:                Wed, 04 Jan 2023   Prob (F-statistic):               0.00
+Time:                        15:16:05   Log-Likelihood:            -8.1402e+05
+No. Observations:              134400   AIC:                         1.628e+06
+Df Residuals:                  134386   BIC:                         1.628e+06
+Df Model:                          13                                         
+Covariance Type:            nonrobust                                         
+=================================================================================
+                    coef    std err          t      P>|t|      [0.025      0.975]
+---------------------------------------------------------------------------------
+const          1250.9485      4.022    311.060      0.000    1243.066    1258.831
+price          -396.6802      0.852   -465.542      0.000    -398.350    -395.010
+sku_name          0.0038      0.002      1.536      0.125      -0.001       0.009
+gender           -6.4052      0.584    -10.960      0.000      -7.551      -5.260
+category         -1.9285      0.142    -13.573      0.000      -2.207      -1.650
+brand            -2.5182      0.271     -9.286      0.000      -3.050      -1.987
+collection       -4.9152      0.328    -14.972      0.000      -5.559      -4.272
+price_tier       -1.1401      0.351     -3.249      0.001      -1.828      -0.452
+style            -3.5533      0.572     -6.208      0.000      -4.675      -2.432
+cost           8.567e+09   2.28e+10      0.376      0.707   -3.61e+10    5.33e+10
+revenue       -8.567e+09   2.28e+10     -0.376      0.707   -5.33e+10    3.61e+10
+profit         8.567e+09   2.28e+10      0.376      0.707   -3.61e+10    5.33e+10
+profit_margin  -480.1747      3.021   -158.949      0.000    -486.096    -474.254
+sales_change      0.0192      0.002      8.860      0.000       0.015       0.023
+==============================================================================
+Omnibus:                    40716.266   Durbin-Watson:                   1.996
+Prob(Omnibus):                  0.000   Jarque-Bera (JB):           266716.159
+Skew:                           1.298   Prob(JB):                         0.00
+Kurtosis:                       9.394   Cond. No.                     2.57e+14
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
+[2] The smallest eigenvalue is 6.84e-18. This might indicate that there are
+strong multicollinearity problems or that the design matrix is singular.
+
+INFO 2023-01-04 15:16:05,653 [root:main.py:buildmodel:87]
+✅ Built model!
+
+INFO 2023-01-04 15:16:20,306 [root:main.py:buildmodel:82]
+Building model...
+
+INFO 2023-01-04 15:16:20,309 [root:main.py:buildfeature:67]
+Building features...
+
+INFO 2023-01-04 15:16:20,310 [root:main.py:process:51]
+Processing data...
+
+INFO 2023-01-04 15:16:20,311 [root:main.py:encode:36]
+Encoding categorical columns...
+
+INFO 2023-01-04 15:16:20,312 [root:main.py:ingest:24]
+Ingesting data...
+
+INFO 2023-01-04 15:16:20,615 [root:main.py:ingest:27]
+✅ Ingested data!
+
+INFO 2023-01-04 15:16:20,831 [root:main.py:encode:42]
+✅ Encoded categorical columns!
+
+INFO 2023-01-04 15:16:20,900 [root:main.py:process:58]
+✅ Processed data!
+
+INFO 2023-01-04 15:16:20,925 [root:main.py:buildfeature:73]
+✅ Built features!
+
+INFO 2023-01-04 15:16:21,178 [root:build_model.py:build_model:19]
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:                  sales   R-squared:                       0.965
+Model:                            OLS   Adj. R-squared:                  0.965
+Method:                 Least Squares   F-statistic:                 2.825e+05
+Date:                Wed, 04 Jan 2023   Prob (F-statistic):               0.00
+Time:                        15:16:21   Log-Likelihood:            -8.1402e+05
+No. Observations:              134400   AIC:                         1.628e+06
+Df Residuals:                  134386   BIC:                         1.628e+06
+Df Model:                          13                                         
+Covariance Type:            nonrobust                                         
+=================================================================================
+                    coef    std err          t      P>|t|      [0.025      0.975]
+---------------------------------------------------------------------------------
+const          1250.9485      4.022    311.060      0.000    1243.066    1258.831
+price          -396.6802      0.852   -465.542      0.000    -398.350    -395.010
+sku_name          0.0038      0.002      1.536      0.125      -0.001       0.009
+gender           -6.4052      0.584    -10.960      0.000      -7.551      -5.260
+category         -1.9285      0.142    -13.573      0.000      -2.207      -1.650
+brand            -2.5182      0.271     -9.286      0.000      -3.050      -1.987
+collection       -4.9152      0.328    -14.972      0.000      -5.559      -4.272
+price_tier       -1.1401      0.351     -3.249      0.001      -1.828      -0.452
+style            -3.5533      0.572     -6.208      0.000      -4.675      -2.432
+cost           8.567e+09   2.28e+10      0.376      0.707   -3.61e+10    5.33e+10
+revenue       -8.567e+09   2.28e+10     -0.376      0.707   -5.33e+10    3.61e+10
+profit         8.567e+09   2.28e+10      0.376      0.707   -3.61e+10    5.33e+10
+profit_margin  -480.1747      3.021   -158.949      0.000    -486.096    -474.254
+sales_change      0.0192      0.002      8.860      0.000       0.015       0.023
+==============================================================================
+Omnibus:                    40716.266   Durbin-Watson:                   1.996
+Prob(Omnibus):                  0.000   Jarque-Bera (JB):           266716.159
+Skew:                           1.298   Prob(JB):                         0.00
+Kurtosis:                       9.394   Cond. No.                     2.57e+14
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
+[2] The smallest eigenvalue is 6.84e-18. This might indicate that there are
+strong multicollinearity problems or that the design matrix is singular.
+
+INFO 2023-01-04 15:16:21,276 [root:main.py:buildmodel:87]
+✅ Built model!
+
+INFO 2023-01-05 02:09:43,608 [root:main.py:buildmodel:82]
+Building model...
+
+INFO 2023-01-05 02:09:43,611 [root:main.py:buildfeature:67]
+Building features...
+
+INFO 2023-01-05 02:09:43,612 [root:main.py:process:51]
+Processing data...
+
+INFO 2023-01-05 02:09:43,613 [root:main.py:encode:36]
+Encoding categorical columns...
+
+INFO 2023-01-05 02:09:43,614 [root:main.py:ingest:24]
+Ingesting data...
+
+INFO 2023-01-05 02:10:29,997 [root:main.py:buildmodel:82]
+Building model...
+
+INFO 2023-01-05 02:10:30,001 [root:main.py:buildfeature:67]
+Building features...
+
+INFO 2023-01-05 02:10:30,002 [root:main.py:process:51]
+Processing data...
+
+INFO 2023-01-05 02:10:30,002 [root:main.py:encode:36]
+Encoding categorical columns...
+
+INFO 2023-01-05 02:10:30,003 [root:main.py:ingest:24]
+Ingesting data...
+
+INFO 2023-01-05 02:10:45,024 [root:main.py:buildmodel:82]
+Building model...
+
+INFO 2023-01-05 02:10:45,027 [root:main.py:buildfeature:67]
+Building features...
+
+INFO 2023-01-05 02:10:45,028 [root:main.py:process:51]
+Processing data...
+
+INFO 2023-01-05 02:10:45,029 [root:main.py:encode:36]
+Encoding categorical columns...
+
+INFO 2023-01-05 02:10:45,030 [root:main.py:ingest:24]
+Ingesting data...
+
+INFO 2023-01-05 02:13:44,047 [root:main.py:buildmodel:82]
+Building model...
+
+INFO 2023-01-05 02:13:44,051 [root:main.py:buildfeature:67]
+Building features...
+
+INFO 2023-01-05 02:13:44,052 [root:main.py:process:51]
+Processing data...
+
+INFO 2023-01-05 02:13:44,053 [root:main.py:encode:36]
+Encoding categorical columns...
+
+INFO 2023-01-05 02:13:44,053 [root:main.py:ingest:24]
+Ingesting data...
+
+INFO 2023-01-05 02:13:44,442 [root:main.py:ingest:27]
+✅ Ingested data!
+
+INFO 2023-01-05 02:13:44,681 [root:main.py:encode:42]
+✅ Encoded categorical columns!
+
+INFO 2023-01-05 02:13:44,788 [root:main.py:process:58]
+✅ Processed data!
+
+INFO 2023-01-05 02:13:44,836 [root:main.py:buildfeature:73]
+✅ Built features!
+
+INFO 2023-01-05 02:13:45,190 [root:build_model.py:build_model:19]
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:                  sales   R-squared:                       0.965
+Model:                            OLS   Adj. R-squared:                  0.965
+Method:                 Least Squares   F-statistic:                 2.825e+05
+Date:                Thu, 05 Jan 2023   Prob (F-statistic):               0.00
+Time:                        02:13:45   Log-Likelihood:            -8.1402e+05
+No. Observations:              134400   AIC:                         1.628e+06
+Df Residuals:                  134386   BIC:                         1.628e+06
+Df Model:                          13                                         
+Covariance Type:            nonrobust                                         
+=================================================================================
+                    coef    std err          t      P>|t|      [0.025      0.975]
+---------------------------------------------------------------------------------
+const          1250.9485      4.022    311.060      0.000    1243.066    1258.831
+price          -396.6802      0.852   -465.542      0.000    -398.350    -395.010
+sku_name          0.0038      0.002      1.536      0.125      -0.001       0.009
+gender           -6.4052      0.584    -10.960      0.000      -7.551      -5.260
+category         -1.9285      0.142    -13.573      0.000      -2.207      -1.650
+brand            -2.5182      0.271     -9.286      0.000      -3.050      -1.987
+collection       -4.9152      0.328    -14.972      0.000      -5.559      -4.272
+price_tier       -1.1401      0.351     -3.249      0.001      -1.828      -0.452
+style            -3.5533      0.572     -6.208      0.000      -4.675      -2.432
+cost           8.567e+09   2.28e+10      0.376      0.707   -3.61e+10    5.33e+10
+revenue       -8.567e+09   2.28e+10     -0.376      0.707   -5.33e+10    3.61e+10
+profit         8.567e+09   2.28e+10      0.376      0.707   -3.61e+10    5.33e+10
+profit_margin  -480.1747      3.021   -158.949      0.000    -486.096    -474.254
+sales_change      0.0192      0.002      8.860      0.000       0.015       0.023
+==============================================================================
+Omnibus:                    40716.266   Durbin-Watson:                   1.996
+Prob(Omnibus):                  0.000   Jarque-Bera (JB):           266716.159
+Skew:                           1.298   Prob(JB):                         0.00
+Kurtosis:                       9.394   Cond. No.                     2.57e+14
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
+[2] The smallest eigenvalue is 6.84e-18. This might indicate that there are
+strong multicollinearity problems or that the design matrix is singular.
+
+INFO 2023-01-05 02:14:10,236 [root:main.py:buildmodel:82]
+Building model...
+
+INFO 2023-01-05 02:14:10,239 [root:main.py:buildfeature:67]
+Building features...
+
+INFO 2023-01-05 02:14:10,240 [root:main.py:process:51]
+Processing data...
+
+INFO 2023-01-05 02:14:10,241 [root:main.py:encode:36]
+Encoding categorical columns...
+
+INFO 2023-01-05 02:14:10,241 [root:main.py:ingest:24]
+Ingesting data...
+
+INFO 2023-01-05 02:14:10,557 [root:main.py:ingest:27]
+✅ Ingested data!
+
+INFO 2023-01-05 02:14:10,773 [root:main.py:encode:42]
+✅ Encoded categorical columns!
+
+INFO 2023-01-05 02:14:10,850 [root:main.py:process:58]
+✅ Processed data!
+
+INFO 2023-01-05 02:14:10,880 [root:main.py:buildfeature:73]
+✅ Built features!
+
+INFO 2023-01-05 02:14:11,140 [root:build_model.py:build_model:19]
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:                  sales   R-squared:                       0.965
+Model:                            OLS   Adj. R-squared:                  0.965
+Method:                 Least Squares   F-statistic:                 2.825e+05
+Date:                Thu, 05 Jan 2023   Prob (F-statistic):               0.00
+Time:                        02:14:11   Log-Likelihood:            -8.1402e+05
+No. Observations:              134400   AIC:                         1.628e+06
+Df Residuals:                  134386   BIC:                         1.628e+06
+Df Model:                          13                                         
+Covariance Type:            nonrobust                                         
+=================================================================================
+                    coef    std err          t      P>|t|      [0.025      0.975]
+---------------------------------------------------------------------------------
+const          1250.9485      4.022    311.060      0.000    1243.066    1258.831
+price          -396.6802      0.852   -465.542      0.000    -398.350    -395.010
+sku_name          0.0038      0.002      1.536      0.125      -0.001       0.009
+gender           -6.4052      0.584    -10.960      0.000      -7.551      -5.260
+category         -1.9285      0.142    -13.573      0.000      -2.207      -1.650
+brand            -2.5182      0.271     -9.286      0.000      -3.050      -1.987
+collection       -4.9152      0.328    -14.972      0.000      -5.559      -4.272
+price_tier       -1.1401      0.351     -3.249      0.001      -1.828      -0.452
+style            -3.5533      0.572     -6.208      0.000      -4.675      -2.432
+cost           8.567e+09   2.28e+10      0.376      0.707   -3.61e+10    5.33e+10
+revenue       -8.567e+09   2.28e+10     -0.376      0.707   -5.33e+10    3.61e+10
+profit         8.567e+09   2.28e+10      0.376      0.707   -3.61e+10    5.33e+10
+profit_margin  -480.1747      3.021   -158.949      0.000    -486.096    -474.254
+sales_change      0.0192      0.002      8.860      0.000       0.015       0.023
+==============================================================================
+Omnibus:                    40716.266   Durbin-Watson:                   1.996
+Prob(Omnibus):                  0.000   Jarque-Bera (JB):           266716.159
+Skew:                           1.298   Prob(JB):                         0.00
+Kurtosis:                       9.394   Cond. No.                     2.57e+14
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
+[2] The smallest eigenvalue is 6.84e-18. This might indicate that there are
+strong multicollinearity problems or that the design matrix is singular.
+
+INFO 2023-01-05 02:14:11,249 [root:main.py:buildmodel:87]
+✅ Built model!
+
+INFO 2023-01-05 02:14:49,985 [root:main.py:buildmodel:82]
+Building model...
+
+INFO 2023-01-05 02:14:49,988 [root:main.py:buildfeature:67]
+Building features...
+
+INFO 2023-01-05 02:14:49,989 [root:main.py:process:51]
+Processing data...
+
+INFO 2023-01-05 02:14:49,990 [root:main.py:encode:36]
+Encoding categorical columns...
+
+INFO 2023-01-05 02:14:49,991 [root:main.py:ingest:24]
+Ingesting data...
+
+INFO 2023-01-05 02:14:50,412 [root:main.py:ingest:27]
+✅ Ingested data!
+
+INFO 2023-01-05 02:14:50,633 [root:main.py:encode:42]
+✅ Encoded categorical columns!
+
+INFO 2023-01-05 02:14:50,704 [root:main.py:process:58]
+✅ Processed data!
+
+INFO 2023-01-05 02:14:50,746 [root:main.py:buildfeature:73]
+✅ Built features!
+
+INFO 2023-01-05 02:14:51,053 [root:build_model.py:build_model:19]
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:                  sales   R-squared:                       0.965
+Model:                            OLS   Adj. R-squared:                  0.965
+Method:                 Least Squares   F-statistic:                 2.825e+05
+Date:                Thu, 05 Jan 2023   Prob (F-statistic):               0.00
+Time:                        02:14:51   Log-Likelihood:            -8.1402e+05
+No. Observations:              134400   AIC:                         1.628e+06
+Df Residuals:                  134386   BIC:                         1.628e+06
+Df Model:                          13                                         
+Covariance Type:            nonrobust                                         
+=================================================================================
+                    coef    std err          t      P>|t|      [0.025      0.975]
+---------------------------------------------------------------------------------
+const          1250.9485      4.022    311.060      0.000    1243.066    1258.831
+price          -396.6802      0.852   -465.542      0.000    -398.350    -395.010
+sku_name          0.0038      0.002      1.536      0.125      -0.001       0.009
+gender           -6.4052      0.584    -10.960      0.000      -7.551      -5.260
+category         -1.9285      0.142    -13.573      0.000      -2.207      -1.650
+brand            -2.5182      0.271     -9.286      0.000      -3.050      -1.987
+collection       -4.9152      0.328    -14.972      0.000      -5.559      -4.272
+price_tier       -1.1401      0.351     -3.249      0.001      -1.828      -0.452
+style            -3.5533      0.572     -6.208      0.000      -4.675      -2.432
+cost           8.567e+09   2.28e+10      0.376      0.707   -3.61e+10    5.33e+10
+revenue       -8.567e+09   2.28e+10     -0.376      0.707   -5.33e+10    3.61e+10
+profit         8.567e+09   2.28e+10      0.376      0.707   -3.61e+10    5.33e+10
+profit_margin  -480.1747      3.021   -158.949      0.000    -486.096    -474.254
+sales_change      0.0192      0.002      8.860      0.000       0.015       0.023
+==============================================================================
+Omnibus:                    40716.266   Durbin-Watson:                   1.996
+Prob(Omnibus):                  0.000   Jarque-Bera (JB):           266716.159
+Skew:                           1.298   Prob(JB):                         0.00
+Kurtosis:                       9.394   Cond. No.                     2.57e+14
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
+[2] The smallest eigenvalue is 6.84e-18. This might indicate that there are
+strong multicollinearity problems or that the design matrix is singular.
+
+INFO 2023-01-05 02:14:51,152 [root:main.py:buildmodel:87]
+✅ Built model!
+
+INFO 2023-01-05 02:15:51,481 [root:main.py:buildmodel:82]
+Building model...
+
+INFO 2023-01-05 02:15:51,484 [root:main.py:buildfeature:67]
+Building features...
+
+INFO 2023-01-05 02:15:51,485 [root:main.py:process:51]
+Processing data...
+
+INFO 2023-01-05 02:15:51,486 [root:main.py:encode:36]
+Encoding categorical columns...
+
+INFO 2023-01-05 02:15:51,487 [root:main.py:ingest:24]
+Ingesting data...
+
+INFO 2023-01-05 02:15:51,892 [root:main.py:ingest:27]
+✅ Ingested data!
+
+INFO 2023-01-05 02:15:52,134 [root:main.py:encode:42]
+✅ Encoded categorical columns!
+
+INFO 2023-01-05 02:15:52,222 [root:main.py:process:58]
+✅ Processed data!
+
+INFO 2023-01-05 02:15:52,252 [root:main.py:buildfeature:73]
+✅ Built features!
+
+INFO 2023-01-05 02:15:52,568 [root:build_model.py:build_model:19]
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:                  sales   R-squared:                       0.965
+Model:                            OLS   Adj. R-squared:                  0.965
+Method:                 Least Squares   F-statistic:                 2.825e+05
+Date:                Thu, 05 Jan 2023   Prob (F-statistic):               0.00
+Time:                        02:15:52   Log-Likelihood:            -8.1402e+05
+No. Observations:              134400   AIC:                         1.628e+06
+Df Residuals:                  134386   BIC:                         1.628e+06
+Df Model:                          13                                         
+Covariance Type:            nonrobust                                         
+=================================================================================
+                    coef    std err          t      P>|t|      [0.025      0.975]
+---------------------------------------------------------------------------------
+const          1250.9485      4.022    311.060      0.000    1243.066    1258.831
+price          -396.6802      0.852   -465.542      0.000    -398.350    -395.010
+sku_name          0.0038      0.002      1.536      0.125      -0.001       0.009
+gender           -6.4052      0.584    -10.960      0.000      -7.551      -5.260
+category         -1.9285      0.142    -13.573      0.000      -2.207      -1.650
+brand            -2.5182      0.271     -9.286      0.000      -3.050      -1.987
+collection       -4.9152      0.328    -14.972      0.000      -5.559      -4.272
+price_tier       -1.1401      0.351     -3.249      0.001      -1.828      -0.452
+style            -3.5533      0.572     -6.208      0.000      -4.675      -2.432
+cost           8.567e+09   2.28e+10      0.376      0.707   -3.61e+10    5.33e+10
+revenue       -8.567e+09   2.28e+10     -0.376      0.707   -5.33e+10    3.61e+10
+profit         8.567e+09   2.28e+10      0.376      0.707   -3.61e+10    5.33e+10
+profit_margin  -480.1747      3.021   -158.949      0.000    -486.096    -474.254
+sales_change      0.0192      0.002      8.860      0.000       0.015       0.023
+==============================================================================
+Omnibus:                    40716.266   Durbin-Watson:                   1.996
+Prob(Omnibus):                  0.000   Jarque-Bera (JB):           266716.159
+Skew:                           1.298   Prob(JB):                         0.00
+Kurtosis:                       9.394   Cond. No.                     2.57e+14
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
+[2] The smallest eigenvalue is 6.84e-18. This might indicate that there are
+strong multicollinearity problems or that the design matrix is singular.
+
+INFO 2023-01-05 02:15:52,680 [root:main.py:buildmodel:87]
+✅ Built model!
+
+INFO 2023-01-05 02:15:52,708 [root:main.py:buildmodel:93]
+✅ Evaluated model!
+
+INFO 2023-01-05 02:16:32,567 [root:main.py:buildmodel:82]
+Building model...
+
+INFO 2023-01-05 02:16:32,571 [root:main.py:buildfeature:67]
+Building features...
+
+INFO 2023-01-05 02:16:32,571 [root:main.py:process:51]
+Processing data...
+
+INFO 2023-01-05 02:16:32,572 [root:main.py:encode:36]
+Encoding categorical columns...
+
+INFO 2023-01-05 02:16:32,573 [root:main.py:ingest:24]
+Ingesting data...
+
+INFO 2023-01-05 02:16:32,895 [root:main.py:ingest:27]
+✅ Ingested data!
+
+INFO 2023-01-05 02:16:33,112 [root:main.py:encode:42]
+✅ Encoded categorical columns!
+
+INFO 2023-01-05 02:16:33,222 [root:main.py:process:58]
+✅ Processed data!
+
+INFO 2023-01-05 02:16:33,296 [root:main.py:buildfeature:73]
+✅ Built features!
+
+INFO 2023-01-05 02:16:33,597 [root:build_model.py:build_model:19]
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:                  sales   R-squared:                       0.965
+Model:                            OLS   Adj. R-squared:                  0.965
+Method:                 Least Squares   F-statistic:                 2.825e+05
+Date:                Thu, 05 Jan 2023   Prob (F-statistic):               0.00
+Time:                        02:16:33   Log-Likelihood:            -8.1402e+05
+No. Observations:              134400   AIC:                         1.628e+06
+Df Residuals:                  134386   BIC:                         1.628e+06
+Df Model:                          13                                         
+Covariance Type:            nonrobust                                         
+=================================================================================
+                    coef    std err          t      P>|t|      [0.025      0.975]
+---------------------------------------------------------------------------------
+const          1250.9485      4.022    311.060      0.000    1243.066    1258.831
+price          -396.6802      0.852   -465.542      0.000    -398.350    -395.010
+sku_name          0.0038      0.002      1.536      0.125      -0.001       0.009
+gender           -6.4052      0.584    -10.960      0.000      -7.551      -5.260
+category         -1.9285      0.142    -13.573      0.000      -2.207      -1.650
+brand            -2.5182      0.271     -9.286      0.000      -3.050      -1.987
+collection       -4.9152      0.328    -14.972      0.000      -5.559      -4.272
+price_tier       -1.1401      0.351     -3.249      0.001      -1.828      -0.452
+style            -3.5533      0.572     -6.208      0.000      -4.675      -2.432
+cost           8.567e+09   2.28e+10      0.376      0.707   -3.61e+10    5.33e+10
+revenue       -8.567e+09   2.28e+10     -0.376      0.707   -5.33e+10    3.61e+10
+profit         8.567e+09   2.28e+10      0.376      0.707   -3.61e+10    5.33e+10
+profit_margin  -480.1747      3.021   -158.949      0.000    -486.096    -474.254
+sales_change      0.0192      0.002      8.860      0.000       0.015       0.023
+==============================================================================
+Omnibus:                    40716.266   Durbin-Watson:                   1.996
+Prob(Omnibus):                  0.000   Jarque-Bera (JB):           266716.159
+Skew:                           1.298   Prob(JB):                         0.00
+Kurtosis:                       9.394   Cond. No.                     2.57e+14
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
+[2] The smallest eigenvalue is 6.84e-18. This might indicate that there are
+strong multicollinearity problems or that the design matrix is singular.
+
+INFO 2023-01-05 02:16:33,671 [root:main.py:buildmodel:87]
+✅ Built model!
+
+INFO 2023-01-05 02:16:33,708 [root:main.py:buildmodel:93]
+✅ Evaluated model!
+
+INFO 2023-01-06 22:18:50,509 [root:main.py:buildmodel:82]
+Building model...
+
+INFO 2023-01-06 22:18:50,512 [root:main.py:buildfeature:67]
+Building features...
+
+INFO 2023-01-06 22:18:50,513 [root:main.py:process:51]
+Processing data...
+
+INFO 2023-01-06 22:18:50,514 [root:main.py:encode:36]
+Encoding categorical columns...
+
+INFO 2023-01-06 22:18:50,515 [root:main.py:ingest:24]
+Ingesting data...
+
+INFO 2023-01-06 22:18:50,817 [root:main.py:ingest:27]
+✅ Ingested data!
+
+INFO 2023-01-06 22:18:51,104 [root:main.py:encode:42]
+✅ Encoded categorical columns!
+
+INFO 2023-01-06 22:18:51,167 [root:main.py:process:58]
+✅ Processed data!
+
+INFO 2023-01-06 22:18:51,193 [root:main.py:buildfeature:73]
+✅ Built features!
+
+INFO 2023-01-06 22:18:51,467 [root:build_model.py:build_model:19]
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:                  sales   R-squared:                       0.965
+Model:                            OLS   Adj. R-squared:                  0.965
+Method:                 Least Squares   F-statistic:                 2.825e+05
+Date:                Fri, 06 Jan 2023   Prob (F-statistic):               0.00
+Time:                        22:18:51   Log-Likelihood:            -8.1402e+05
+No. Observations:              134400   AIC:                         1.628e+06
+Df Residuals:                  134386   BIC:                         1.628e+06
+Df Model:                          13                                         
+Covariance Type:            nonrobust                                         
+=================================================================================
+                    coef    std err          t      P>|t|      [0.025      0.975]
+---------------------------------------------------------------------------------
+const          1250.9485      4.022    311.060      0.000    1243.066    1258.831
+price          -396.6802      0.852   -465.542      0.000    -398.350    -395.010
+sku_name          0.0038      0.002      1.536      0.125      -0.001       0.009
+gender           -6.4052      0.584    -10.960      0.000      -7.551      -5.260
+category         -1.9285      0.142    -13.573      0.000      -2.207      -1.650
+brand            -2.5182      0.271     -9.286      0.000      -3.050      -1.987
+collection       -4.9152      0.328    -14.972      0.000      -5.559      -4.272
+price_tier       -1.1401      0.351     -3.249      0.001      -1.828      -0.452
+style            -3.5533      0.572     -6.208      0.000      -4.675      -2.432
+cost           8.567e+09   2.28e+10      0.376      0.707   -3.61e+10    5.33e+10
+revenue       -8.567e+09   2.28e+10     -0.376      0.707   -5.33e+10    3.61e+10
+profit         8.567e+09   2.28e+10      0.376      0.707   -3.61e+10    5.33e+10
+profit_margin  -480.1747      3.021   -158.949      0.000    -486.096    -474.254
+sales_change      0.0192      0.002      8.860      0.000       0.015       0.023
+==============================================================================
+Omnibus:                    40716.266   Durbin-Watson:                   1.996
+Prob(Omnibus):                  0.000   Jarque-Bera (JB):           266716.159
+Skew:                           1.298   Prob(JB):                         0.00
+Kurtosis:                       9.394   Cond. No.                     2.57e+14
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
+[2] The smallest eigenvalue is 6.84e-18. This might indicate that there are
+strong multicollinearity problems or that the design matrix is singular.
+
+INFO 2023-01-06 22:18:51,597 [root:main.py:buildmodel:87]
+✅ Built model!
+
+INFO 2023-01-06 22:18:51,623 [root:main.py:buildmodel:93]
+✅ Evaluated model!
+
+INFO 2023-01-06 22:36:55,855 [root:main.py:buildmodel:83]
+Building model...
+
+INFO 2023-01-06 22:36:55,858 [root:main.py:buildfeature:68]
+Building features...
+
+INFO 2023-01-06 22:36:55,859 [root:main.py:process:52]
+Processing data...
+
+INFO 2023-01-06 22:36:55,860 [root:main.py:encode:37]
+Encoding categorical columns...
+
+INFO 2023-01-06 22:36:55,861 [root:main.py:ingest:25]
+Ingesting data...
+
+INFO 2023-01-06 22:36:56,202 [root:main.py:ingest:28]
+✅ Ingested data!
+
+INFO 2023-01-06 22:36:56,456 [root:main.py:encode:43]
+✅ Encoded categorical columns!
+
+INFO 2023-01-06 22:36:56,545 [root:main.py:process:59]
+✅ Processed data!
+
+INFO 2023-01-06 22:36:56,582 [root:main.py:buildfeature:74]
+✅ Built features!
+
+INFO 2023-01-06 22:36:56,946 [root:build_model.py:build_model:19]
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:                  sales   R-squared:                       0.965
+Model:                            OLS   Adj. R-squared:                  0.965
+Method:                 Least Squares   F-statistic:                 2.825e+05
+Date:                Fri, 06 Jan 2023   Prob (F-statistic):               0.00
+Time:                        22:36:56   Log-Likelihood:            -8.1402e+05
+No. Observations:              134400   AIC:                         1.628e+06
+Df Residuals:                  134386   BIC:                         1.628e+06
+Df Model:                          13                                         
+Covariance Type:            nonrobust                                         
+=================================================================================
+                    coef    std err          t      P>|t|      [0.025      0.975]
+---------------------------------------------------------------------------------
+const          1250.9485      4.022    311.060      0.000    1243.066    1258.831
+price          -396.6802      0.852   -465.542      0.000    -398.350    -395.010
+sku_name          0.0038      0.002      1.536      0.125      -0.001       0.009
+gender           -6.4052      0.584    -10.960      0.000      -7.551      -5.260
+category         -1.9285      0.142    -13.573      0.000      -2.207      -1.650
+brand            -2.5182      0.271     -9.286      0.000      -3.050      -1.987
+collection       -4.9152      0.328    -14.972      0.000      -5.559      -4.272
+price_tier       -1.1401      0.351     -3.249      0.001      -1.828      -0.452
+style            -3.5533      0.572     -6.208      0.000      -4.675      -2.432
+cost           8.567e+09   2.28e+10      0.376      0.707   -3.61e+10    5.33e+10
+revenue       -8.567e+09   2.28e+10     -0.376      0.707   -5.33e+10    3.61e+10
+profit         8.567e+09   2.28e+10      0.376      0.707   -3.61e+10    5.33e+10
+profit_margin  -480.1747      3.021   -158.949      0.000    -486.096    -474.254
+sales_change      0.0192      0.002      8.860      0.000       0.015       0.023
+==============================================================================
+Omnibus:                    40716.266   Durbin-Watson:                   1.996
+Prob(Omnibus):                  0.000   Jarque-Bera (JB):           266716.159
+Skew:                           1.298   Prob(JB):                         0.00
+Kurtosis:                       9.394   Cond. No.                     2.57e+14
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
+[2] The smallest eigenvalue is 6.84e-18. This might indicate that there are
+strong multicollinearity problems or that the design matrix is singular.
+
+INFO 2023-01-06 22:37:28,887 [root:main.py:buildmodel:83]
+Building model...
+
+INFO 2023-01-06 22:37:28,891 [root:main.py:buildfeature:68]
+Building features...
+
+INFO 2023-01-06 22:37:28,892 [root:main.py:process:52]
+Processing data...
+
+INFO 2023-01-06 22:37:28,893 [root:main.py:encode:37]
+Encoding categorical columns...
+
+INFO 2023-01-06 22:37:28,894 [root:main.py:ingest:25]
+Ingesting data...
+
+INFO 2023-01-06 22:37:29,202 [root:main.py:ingest:28]
+✅ Ingested data!
+
+INFO 2023-01-06 22:37:29,417 [root:main.py:encode:43]
+✅ Encoded categorical columns!
+
+INFO 2023-01-06 22:37:29,493 [root:main.py:process:59]
+✅ Processed data!
+
+INFO 2023-01-06 22:37:29,536 [root:main.py:buildfeature:74]
+✅ Built features!
+
+INFO 2023-01-06 22:37:29,811 [root:build_model.py:build_model:19]
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:                  sales   R-squared:                       0.965
+Model:                            OLS   Adj. R-squared:                  0.965
+Method:                 Least Squares   F-statistic:                 2.825e+05
+Date:                Fri, 06 Jan 2023   Prob (F-statistic):               0.00
+Time:                        22:37:29   Log-Likelihood:            -8.1402e+05
+No. Observations:              134400   AIC:                         1.628e+06
+Df Residuals:                  134386   BIC:                         1.628e+06
+Df Model:                          13                                         
+Covariance Type:            nonrobust                                         
+=================================================================================
+                    coef    std err          t      P>|t|      [0.025      0.975]
+---------------------------------------------------------------------------------
+const          1250.9485      4.022    311.060      0.000    1243.066    1258.831
+price          -396.6802      0.852   -465.542      0.000    -398.350    -395.010
+sku_name          0.0038      0.002      1.536      0.125      -0.001       0.009
+gender           -6.4052      0.584    -10.960      0.000      -7.551      -5.260
+category         -1.9285      0.142    -13.573      0.000      -2.207      -1.650
+brand            -2.5182      0.271     -9.286      0.000      -3.050      -1.987
+collection       -4.9152      0.328    -14.972      0.000      -5.559      -4.272
+price_tier       -1.1401      0.351     -3.249      0.001      -1.828      -0.452
+style            -3.5533      0.572     -6.208      0.000      -4.675      -2.432
+cost           8.567e+09   2.28e+10      0.376      0.707   -3.61e+10    5.33e+10
+revenue       -8.567e+09   2.28e+10     -0.376      0.707   -5.33e+10    3.61e+10
+profit         8.567e+09   2.28e+10      0.376      0.707   -3.61e+10    5.33e+10
+profit_margin  -480.1747      3.021   -158.949      0.000    -486.096    -474.254
+sales_change      0.0192      0.002      8.860      0.000       0.015       0.023
+==============================================================================
+Omnibus:                    40716.266   Durbin-Watson:                   1.996
+Prob(Omnibus):                  0.000   Jarque-Bera (JB):           266716.159
+Skew:                           1.298   Prob(JB):                         0.00
+Kurtosis:                       9.394   Cond. No.                     2.57e+14
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
+[2] The smallest eigenvalue is 6.84e-18. This might indicate that there are
+strong multicollinearity problems or that the design matrix is singular.
+
+INFO 2023-01-06 22:37:29,933 [root:main.py:buildmodel:93]
+✅ Built model!
+
+INFO 2023-01-06 22:37:29,953 [root:main.py:buildmodel:99]
+✅ Evaluated model!
+
+INFO 2023-01-06 22:38:57,101 [root:main.py:buildmodel:83]
+Building model...
+
+INFO 2023-01-06 22:38:57,105 [root:main.py:buildfeature:68]
+Building features...
+
+INFO 2023-01-06 22:38:57,106 [root:main.py:process:52]
+Processing data...
+
+INFO 2023-01-06 22:38:57,106 [root:main.py:encode:37]
+Encoding categorical columns...
+
+INFO 2023-01-06 22:38:57,107 [root:main.py:ingest:25]
+Ingesting data...
+
+INFO 2023-01-06 22:38:57,482 [root:main.py:ingest:28]
+✅ Ingested data!
+
+INFO 2023-01-06 22:38:57,784 [root:main.py:encode:43]
+✅ Encoded categorical columns!
+
+INFO 2023-01-06 22:38:57,871 [root:main.py:process:59]
+✅ Processed data!
+
+INFO 2023-01-06 22:38:57,905 [root:main.py:buildfeature:74]
+✅ Built features!
+
+INFO 2023-01-06 22:38:58,223 [root:build_model.py:build_model:19]
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:                  sales   R-squared:                       0.965
+Model:                            OLS   Adj. R-squared:                  0.965
+Method:                 Least Squares   F-statistic:                 2.825e+05
+Date:                Fri, 06 Jan 2023   Prob (F-statistic):               0.00
+Time:                        22:38:58   Log-Likelihood:            -8.1402e+05
+No. Observations:              134400   AIC:                         1.628e+06
+Df Residuals:                  134386   BIC:                         1.628e+06
+Df Model:                          13                                         
+Covariance Type:            nonrobust                                         
+=================================================================================
+                    coef    std err          t      P>|t|      [0.025      0.975]
+---------------------------------------------------------------------------------
+const          1250.9485      4.022    311.060      0.000    1243.066    1258.831
+price          -396.6802      0.852   -465.542      0.000    -398.350    -395.010
+sku_name          0.0038      0.002      1.536      0.125      -0.001       0.009
+gender           -6.4052      0.584    -10.960      0.000      -7.551      -5.260
+category         -1.9285      0.142    -13.573      0.000      -2.207      -1.650
+brand            -2.5182      0.271     -9.286      0.000      -3.050      -1.987
+collection       -4.9152      0.328    -14.972      0.000      -5.559      -4.272
+price_tier       -1.1401      0.351     -3.249      0.001      -1.828      -0.452
+style            -3.5533      0.572     -6.208      0.000      -4.675      -2.432
+cost           8.567e+09   2.28e+10      0.376      0.707   -3.61e+10    5.33e+10
+revenue       -8.567e+09   2.28e+10     -0.376      0.707   -5.33e+10    3.61e+10
+profit         8.567e+09   2.28e+10      0.376      0.707   -3.61e+10    5.33e+10
+profit_margin  -480.1747      3.021   -158.949      0.000    -486.096    -474.254
+sales_change      0.0192      0.002      8.860      0.000       0.015       0.023
+==============================================================================
+Omnibus:                    40716.266   Durbin-Watson:                   1.996
+Prob(Omnibus):                  0.000   Jarque-Bera (JB):           266716.159
+Skew:                           1.298   Prob(JB):                         0.00
+Kurtosis:                       9.394   Cond. No.                     2.57e+14
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
+[2] The smallest eigenvalue is 6.84e-18. This might indicate that there are
+strong multicollinearity problems or that the design matrix is singular.
+
+INFO 2023-01-06 22:39:46,242 [root:main.py:buildmodel:83]
+Building model...
+
+INFO 2023-01-06 22:39:46,250 [root:main.py:buildfeature:68]
+Building features...
+
+INFO 2023-01-06 22:39:46,251 [root:main.py:process:52]
+Processing data...
+
+INFO 2023-01-06 22:39:46,251 [root:main.py:encode:37]
+Encoding categorical columns...
+
+INFO 2023-01-06 22:39:46,252 [root:main.py:ingest:25]
+Ingesting data...
+
+INFO 2023-01-06 22:39:46,553 [root:main.py:ingest:28]
+✅ Ingested data!
+
+INFO 2023-01-06 22:39:46,772 [root:main.py:encode:43]
+✅ Encoded categorical columns!
+
+INFO 2023-01-06 22:39:46,841 [root:main.py:process:59]
+✅ Processed data!
+
+INFO 2023-01-06 22:39:46,868 [root:main.py:buildfeature:74]
+✅ Built features!
+
+INFO 2023-01-06 22:39:47,121 [root:build_model.py:build_model:19]
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:                  sales   R-squared:                       0.965
+Model:                            OLS   Adj. R-squared:                  0.965
+Method:                 Least Squares   F-statistic:                 2.825e+05
+Date:                Fri, 06 Jan 2023   Prob (F-statistic):               0.00
+Time:                        22:39:47   Log-Likelihood:            -8.1402e+05
+No. Observations:              134400   AIC:                         1.628e+06
+Df Residuals:                  134386   BIC:                         1.628e+06
+Df Model:                          13                                         
+Covariance Type:            nonrobust                                         
+=================================================================================
+                    coef    std err          t      P>|t|      [0.025      0.975]
+---------------------------------------------------------------------------------
+const          1250.9485      4.022    311.060      0.000    1243.066    1258.831
+price          -396.6802      0.852   -465.542      0.000    -398.350    -395.010
+sku_name          0.0038      0.002      1.536      0.125      -0.001       0.009
+gender           -6.4052      0.584    -10.960      0.000      -7.551      -5.260
+category         -1.9285      0.142    -13.573      0.000      -2.207      -1.650
+brand            -2.5182      0.271     -9.286      0.000      -3.050      -1.987
+collection       -4.9152      0.328    -14.972      0.000      -5.559      -4.272
+price_tier       -1.1401      0.351     -3.249      0.001      -1.828      -0.452
+style            -3.5533      0.572     -6.208      0.000      -4.675      -2.432
+cost           8.567e+09   2.28e+10      0.376      0.707   -3.61e+10    5.33e+10
+revenue       -8.567e+09   2.28e+10     -0.376      0.707   -5.33e+10    3.61e+10
+profit         8.567e+09   2.28e+10      0.376      0.707   -3.61e+10    5.33e+10
+profit_margin  -480.1747      3.021   -158.949      0.000    -486.096    -474.254
+sales_change      0.0192      0.002      8.860      0.000       0.015       0.023
+==============================================================================
+Omnibus:                    40716.266   Durbin-Watson:                   1.996
+Prob(Omnibus):                  0.000   Jarque-Bera (JB):           266716.159
+Skew:                           1.298   Prob(JB):                         0.00
+Kurtosis:                       9.394   Cond. No.                     2.57e+14
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
+[2] The smallest eigenvalue is 6.84e-18. This might indicate that there are
+strong multicollinearity problems or that the design matrix is singular.
+
+INFO 2023-01-06 22:40:01,286 [root:main.py:buildmodel:83]
+Building model...
+
+INFO 2023-01-06 22:40:01,290 [root:main.py:buildfeature:68]
+Building features...
+
+INFO 2023-01-06 22:40:01,291 [root:main.py:process:52]
+Processing data...
+
+INFO 2023-01-06 22:40:01,291 [root:main.py:encode:37]
+Encoding categorical columns...
+
+INFO 2023-01-06 22:40:01,292 [root:main.py:ingest:25]
+Ingesting data...
+
+INFO 2023-01-06 22:40:01,582 [root:main.py:ingest:28]
+✅ Ingested data!
+
+INFO 2023-01-06 22:40:01,787 [root:main.py:encode:43]
+✅ Encoded categorical columns!
+
+INFO 2023-01-06 22:40:01,858 [root:main.py:process:59]
+✅ Processed data!
+
+INFO 2023-01-06 22:40:01,882 [root:main.py:buildfeature:74]
+✅ Built features!
+
+INFO 2023-01-06 22:40:02,143 [root:build_model.py:build_model:19]
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:                  sales   R-squared:                       0.965
+Model:                            OLS   Adj. R-squared:                  0.965
+Method:                 Least Squares   F-statistic:                 2.825e+05
+Date:                Fri, 06 Jan 2023   Prob (F-statistic):               0.00
+Time:                        22:40:02   Log-Likelihood:            -8.1402e+05
+No. Observations:              134400   AIC:                         1.628e+06
+Df Residuals:                  134386   BIC:                         1.628e+06
+Df Model:                          13                                         
+Covariance Type:            nonrobust                                         
+=================================================================================
+                    coef    std err          t      P>|t|      [0.025      0.975]
+---------------------------------------------------------------------------------
+const          1250.9485      4.022    311.060      0.000    1243.066    1258.831
+price          -396.6802      0.852   -465.542      0.000    -398.350    -395.010
+sku_name          0.0038      0.002      1.536      0.125      -0.001       0.009
+gender           -6.4052      0.584    -10.960      0.000      -7.551      -5.260
+category         -1.9285      0.142    -13.573      0.000      -2.207      -1.650
+brand            -2.5182      0.271     -9.286      0.000      -3.050      -1.987
+collection       -4.9152      0.328    -14.972      0.000      -5.559      -4.272
+price_tier       -1.1401      0.351     -3.249      0.001      -1.828      -0.452
+style            -3.5533      0.572     -6.208      0.000      -4.675      -2.432
+cost           8.567e+09   2.28e+10      0.376      0.707   -3.61e+10    5.33e+10
+revenue       -8.567e+09   2.28e+10     -0.376      0.707   -5.33e+10    3.61e+10
+profit         8.567e+09   2.28e+10      0.376      0.707   -3.61e+10    5.33e+10
+profit_margin  -480.1747      3.021   -158.949      0.000    -486.096    -474.254
+sales_change      0.0192      0.002      8.860      0.000       0.015       0.023
+==============================================================================
+Omnibus:                    40716.266   Durbin-Watson:                   1.996
+Prob(Omnibus):                  0.000   Jarque-Bera (JB):           266716.159
+Skew:                           1.298   Prob(JB):                         0.00
+Kurtosis:                       9.394   Cond. No.                     2.57e+14
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
+[2] The smallest eigenvalue is 6.84e-18. This might indicate that there are
+strong multicollinearity problems or that the design matrix is singular.
+
+INFO 2023-01-06 22:40:02,298 [root:main.py:buildmodel:98]
+✅ Built model!
+
+INFO 2023-01-06 22:40:02,326 [root:main.py:buildmodel:104]
+✅ Evaluated model!
+
+INFO 2023-01-06 22:40:58,505 [root:main.py:buildmodel:83]
+Building model...
+
+INFO 2023-01-06 22:40:58,509 [root:main.py:buildfeature:68]
+Building features...
+
+INFO 2023-01-06 22:40:58,510 [root:main.py:process:52]
+Processing data...
+
+INFO 2023-01-06 22:40:58,511 [root:main.py:encode:37]
+Encoding categorical columns...
+
+INFO 2023-01-06 22:40:58,511 [root:main.py:ingest:25]
+Ingesting data...
+
+INFO 2023-01-06 22:40:58,818 [root:main.py:ingest:28]
+✅ Ingested data!
+
+INFO 2023-01-06 22:40:59,026 [root:main.py:encode:43]
+✅ Encoded categorical columns!
+
+INFO 2023-01-06 22:40:59,084 [root:main.py:process:59]
+✅ Processed data!
+
+INFO 2023-01-06 22:40:59,107 [root:main.py:buildfeature:74]
+✅ Built features!
+
+INFO 2023-01-06 22:40:59,374 [root:build_model.py:build_model:19]
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:                  sales   R-squared:                       0.965
+Model:                            OLS   Adj. R-squared:                  0.965
+Method:                 Least Squares   F-statistic:                 2.825e+05
+Date:                Fri, 06 Jan 2023   Prob (F-statistic):               0.00
+Time:                        22:40:59   Log-Likelihood:            -8.1402e+05
+No. Observations:              134400   AIC:                         1.628e+06
+Df Residuals:                  134386   BIC:                         1.628e+06
+Df Model:                          13                                         
+Covariance Type:            nonrobust                                         
+=================================================================================
+                    coef    std err          t      P>|t|      [0.025      0.975]
+---------------------------------------------------------------------------------
+const          1250.9485      4.022    311.060      0.000    1243.066    1258.831
+price          -396.6802      0.852   -465.542      0.000    -398.350    -395.010
+sku_name          0.0038      0.002      1.536      0.125      -0.001       0.009
+gender           -6.4052      0.584    -10.960      0.000      -7.551      -5.260
+category         -1.9285      0.142    -13.573      0.000      -2.207      -1.650
+brand            -2.5182      0.271     -9.286      0.000      -3.050      -1.987
+collection       -4.9152      0.328    -14.972      0.000      -5.559      -4.272
+price_tier       -1.1401      0.351     -3.249      0.001      -1.828      -0.452
+style            -3.5533      0.572     -6.208      0.000      -4.675      -2.432
+cost           8.567e+09   2.28e+10      0.376      0.707   -3.61e+10    5.33e+10
+revenue       -8.567e+09   2.28e+10     -0.376      0.707   -5.33e+10    3.61e+10
+profit         8.567e+09   2.28e+10      0.376      0.707   -3.61e+10    5.33e+10
+profit_margin  -480.1747      3.021   -158.949      0.000    -486.096    -474.254
+sales_change      0.0192      0.002      8.860      0.000       0.015       0.023
+==============================================================================
+Omnibus:                    40716.266   Durbin-Watson:                   1.996
+Prob(Omnibus):                  0.000   Jarque-Bera (JB):           266716.159
+Skew:                           1.298   Prob(JB):                         0.00
+Kurtosis:                       9.394   Cond. No.                     2.57e+14
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
+[2] The smallest eigenvalue is 6.84e-18. This might indicate that there are
+strong multicollinearity problems or that the design matrix is singular.
+
+INFO 2023-01-06 22:40:59,460 [root:main.py:buildmodel:98]
+✅ Built model!
+
+INFO 2023-01-06 22:40:59,477 [root:main.py:buildmodel:104]
+✅ Evaluated model!
+
+INFO 2023-01-06 22:46:11,704 [root:main.py:buildmodel:83]
+Building model...
+
+INFO 2023-01-06 22:46:11,708 [root:main.py:buildfeature:68]
+Building features...
+
+INFO 2023-01-06 22:46:11,708 [root:main.py:process:52]
+Processing data...
+
+INFO 2023-01-06 22:46:11,709 [root:main.py:encode:37]
+Encoding categorical columns...
+
+INFO 2023-01-06 22:46:11,710 [root:main.py:ingest:25]
+Ingesting data...
+
+INFO 2023-01-06 22:46:12,162 [root:main.py:ingest:28]
+✅ Ingested data!
+
+INFO 2023-01-06 22:46:12,400 [root:main.py:encode:43]
+✅ Encoded categorical columns!
+
+INFO 2023-01-06 22:46:12,475 [root:main.py:process:59]
+✅ Processed data!
+
+INFO 2023-01-06 22:46:12,572 [root:main.py:buildfeature:74]
+✅ Built features!
+
+INFO 2023-01-06 22:46:12,900 [root:build_model.py:build_model:19]
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:                  sales   R-squared:                       0.965
+Model:                            OLS   Adj. R-squared:                  0.965
+Method:                 Least Squares   F-statistic:                 2.825e+05
+Date:                Fri, 06 Jan 2023   Prob (F-statistic):               0.00
+Time:                        22:46:12   Log-Likelihood:            -8.1402e+05
+No. Observations:              134400   AIC:                         1.628e+06
+Df Residuals:                  134386   BIC:                         1.628e+06
+Df Model:                          13                                         
+Covariance Type:            nonrobust                                         
+=================================================================================
+                    coef    std err          t      P>|t|      [0.025      0.975]
+---------------------------------------------------------------------------------
+const          1250.9485      4.022    311.060      0.000    1243.066    1258.831
+price          -396.6802      0.852   -465.542      0.000    -398.350    -395.010
+sku_name          0.0038      0.002      1.536      0.125      -0.001       0.009
+gender           -6.4052      0.584    -10.960      0.000      -7.551      -5.260
+category         -1.9285      0.142    -13.573      0.000      -2.207      -1.650
+brand            -2.5182      0.271     -9.286      0.000      -3.050      -1.987
+collection       -4.9152      0.328    -14.972      0.000      -5.559      -4.272
+price_tier       -1.1401      0.351     -3.249      0.001      -1.828      -0.452
+style            -3.5533      0.572     -6.208      0.000      -4.675      -2.432
+cost           8.567e+09   2.28e+10      0.376      0.707   -3.61e+10    5.33e+10
+revenue       -8.567e+09   2.28e+10     -0.376      0.707   -5.33e+10    3.61e+10
+profit         8.567e+09   2.28e+10      0.376      0.707   -3.61e+10    5.33e+10
+profit_margin  -480.1747      3.021   -158.949      0.000    -486.096    -474.254
+sales_change      0.0192      0.002      8.860      0.000       0.015       0.023
+==============================================================================
+Omnibus:                    40716.266   Durbin-Watson:                   1.996
+Prob(Omnibus):                  0.000   Jarque-Bera (JB):           266716.159
+Skew:                           1.298   Prob(JB):                         0.00
+Kurtosis:                       9.394   Cond. No.                     2.57e+14
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
+[2] The smallest eigenvalue is 6.84e-18. This might indicate that there are
+strong multicollinearity problems or that the design matrix is singular.
+
+INFO 2023-01-06 22:46:13,034 [root:main.py:buildmodel:97]
+✅ Built model!
+
+INFO 2023-01-06 22:46:13,066 [root:main.py:buildmodel:103]
+✅ Evaluated model!
+
+INFO 2023-01-06 22:47:21,514 [root:main.py:buildmodel:83]
+Building model...
+
+INFO 2023-01-06 22:47:21,517 [root:main.py:buildfeature:68]
+Building features...
+
+INFO 2023-01-06 22:47:21,518 [root:main.py:process:52]
+Processing data...
+
+INFO 2023-01-06 22:47:21,519 [root:main.py:encode:37]
+Encoding categorical columns...
+
+INFO 2023-01-06 22:47:21,520 [root:main.py:ingest:25]
+Ingesting data...
+
+INFO 2023-01-06 22:47:21,818 [root:main.py:ingest:28]
+✅ Ingested data!
+
+INFO 2023-01-06 22:47:22,056 [root:main.py:encode:43]
+✅ Encoded categorical columns!
+
+INFO 2023-01-06 22:47:22,122 [root:main.py:process:59]
+✅ Processed data!
+
+INFO 2023-01-06 22:47:22,148 [root:main.py:buildfeature:74]
+✅ Built features!
+
+INFO 2023-01-06 22:47:22,417 [root:build_model.py:build_model:19]
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:                  sales   R-squared:                       0.965
+Model:                            OLS   Adj. R-squared:                  0.965
+Method:                 Least Squares   F-statistic:                 2.825e+05
+Date:                Fri, 06 Jan 2023   Prob (F-statistic):               0.00
+Time:                        22:47:22   Log-Likelihood:            -8.1402e+05
+No. Observations:              134400   AIC:                         1.628e+06
+Df Residuals:                  134386   BIC:                         1.628e+06
+Df Model:                          13                                         
+Covariance Type:            nonrobust                                         
+=================================================================================
+                    coef    std err          t      P>|t|      [0.025      0.975]
+---------------------------------------------------------------------------------
+const          1250.9485      4.022    311.060      0.000    1243.066    1258.831
+price          -396.6802      0.852   -465.542      0.000    -398.350    -395.010
+sku_name          0.0038      0.002      1.536      0.125      -0.001       0.009
+gender           -6.4052      0.584    -10.960      0.000      -7.551      -5.260
+category         -1.9285      0.142    -13.573      0.000      -2.207      -1.650
+brand            -2.5182      0.271     -9.286      0.000      -3.050      -1.987
+collection       -4.9152      0.328    -14.972      0.000      -5.559      -4.272
+price_tier       -1.1401      0.351     -3.249      0.001      -1.828      -0.452
+style            -3.5533      0.572     -6.208      0.000      -4.675      -2.432
+cost           8.567e+09   2.28e+10      0.376      0.707   -3.61e+10    5.33e+10
+revenue       -8.567e+09   2.28e+10     -0.376      0.707   -5.33e+10    3.61e+10
+profit         8.567e+09   2.28e+10      0.376      0.707   -3.61e+10    5.33e+10
+profit_margin  -480.1747      3.021   -158.949      0.000    -486.096    -474.254
+sales_change      0.0192      0.002      8.860      0.000       0.015       0.023
+==============================================================================
+Omnibus:                    40716.266   Durbin-Watson:                   1.996
+Prob(Omnibus):                  0.000   Jarque-Bera (JB):           266716.159
+Skew:                           1.298   Prob(JB):                         0.00
+Kurtosis:                       9.394   Cond. No.                     2.57e+14
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
+[2] The smallest eigenvalue is 6.84e-18. This might indicate that there are
+strong multicollinearity problems or that the design matrix is singular.
+
+INFO 2023-01-06 22:47:22,501 [root:main.py:buildmodel:97]
+✅ Built model!
+
+INFO 2023-01-06 22:47:22,510 [root:main.py:buildmodel:101]
+✅ Evaluated model!
+
+INFO 2023-01-06 22:50:08,818 [root:main.py:buildmodel:83]
+Building model...
+
+INFO 2023-01-06 22:50:08,822 [root:main.py:buildfeature:68]
+Building features...
+
+INFO 2023-01-06 22:50:08,823 [root:main.py:process:52]
+Processing data...
+
+INFO 2023-01-06 22:50:08,824 [root:main.py:encode:37]
+Encoding categorical columns...
+
+INFO 2023-01-06 22:50:08,825 [root:main.py:ingest:25]
+Ingesting data...
+
+INFO 2023-01-06 22:50:09,126 [root:main.py:ingest:28]
+✅ Ingested data!
+
+INFO 2023-01-06 22:50:09,344 [root:main.py:encode:43]
+✅ Encoded categorical columns!
+
+INFO 2023-01-06 22:50:09,417 [root:main.py:process:59]
+✅ Processed data!
+
+INFO 2023-01-06 22:50:09,440 [root:main.py:buildfeature:74]
+✅ Built features!
+
+INFO 2023-01-06 22:50:09,687 [root:build_model.py:build_model:19]
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:                  sales   R-squared:                       0.965
+Model:                            OLS   Adj. R-squared:                  0.965
+Method:                 Least Squares   F-statistic:                 2.825e+05
+Date:                Fri, 06 Jan 2023   Prob (F-statistic):               0.00
+Time:                        22:50:09   Log-Likelihood:            -8.1402e+05
+No. Observations:              134400   AIC:                         1.628e+06
+Df Residuals:                  134386   BIC:                         1.628e+06
+Df Model:                          13                                         
+Covariance Type:            nonrobust                                         
+=================================================================================
+                    coef    std err          t      P>|t|      [0.025      0.975]
+---------------------------------------------------------------------------------
+const          1250.9485      4.022    311.060      0.000    1243.066    1258.831
+price          -396.6802      0.852   -465.542      0.000    -398.350    -395.010
+sku_name          0.0038      0.002      1.536      0.125      -0.001       0.009
+gender           -6.4052      0.584    -10.960      0.000      -7.551      -5.260
+category         -1.9285      0.142    -13.573      0.000      -2.207      -1.650
+brand            -2.5182      0.271     -9.286      0.000      -3.050      -1.987
+collection       -4.9152      0.328    -14.972      0.000      -5.559      -4.272
+price_tier       -1.1401      0.351     -3.249      0.001      -1.828      -0.452
+style            -3.5533      0.572     -6.208      0.000      -4.675      -2.432
+cost           8.567e+09   2.28e+10      0.376      0.707   -3.61e+10    5.33e+10
+revenue       -8.567e+09   2.28e+10     -0.376      0.707   -5.33e+10    3.61e+10
+profit         8.567e+09   2.28e+10      0.376      0.707   -3.61e+10    5.33e+10
+profit_margin  -480.1747      3.021   -158.949      0.000    -486.096    -474.254
+sales_change      0.0192      0.002      8.860      0.000       0.015       0.023
+==============================================================================
+Omnibus:                    40716.266   Durbin-Watson:                   1.996
+Prob(Omnibus):                  0.000   Jarque-Bera (JB):           266716.159
+Skew:                           1.298   Prob(JB):                         0.00
+Kurtosis:                       9.394   Cond. No.                     2.57e+14
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
+[2] The smallest eigenvalue is 6.84e-18. This might indicate that there are
+strong multicollinearity problems or that the design matrix is singular.
+
+INFO 2023-01-06 22:50:10,242 [root:main.py:buildmodel:103]
+✅ Built model!
+
+INFO 2023-01-06 22:50:10,258 [root:main.py:buildmodel:107]
+✅ Evaluated model!
+
+INFO 2023-01-06 22:53:05,241 [root:main.py:buildmodel:83]
+Building model...
+
+INFO 2023-01-06 22:53:05,246 [root:main.py:buildfeature:68]
+Building features...
+
+INFO 2023-01-06 22:53:05,247 [root:main.py:process:52]
+Processing data...
+
+INFO 2023-01-06 22:53:05,247 [root:main.py:encode:37]
+Encoding categorical columns...
+
+INFO 2023-01-06 22:53:05,249 [root:main.py:ingest:25]
+Ingesting data...
+
+INFO 2023-01-06 22:53:05,563 [root:main.py:ingest:28]
+✅ Ingested data!
+
+INFO 2023-01-06 22:53:05,846 [root:main.py:encode:43]
+✅ Encoded categorical columns!
+
+INFO 2023-01-06 22:53:05,952 [root:main.py:process:59]
+✅ Processed data!
+
+INFO 2023-01-06 22:53:06,000 [root:main.py:buildfeature:74]
+✅ Built features!
+
+INFO 2023-01-06 22:53:06,480 [root:build_model.py:build_model:19]
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:                  sales   R-squared:                       0.965
+Model:                            OLS   Adj. R-squared:                  0.965
+Method:                 Least Squares   F-statistic:                 2.825e+05
+Date:                Fri, 06 Jan 2023   Prob (F-statistic):               0.00
+Time:                        22:53:06   Log-Likelihood:            -8.1402e+05
+No. Observations:              134400   AIC:                         1.628e+06
+Df Residuals:                  134386   BIC:                         1.628e+06
+Df Model:                          13                                         
+Covariance Type:            nonrobust                                         
+=================================================================================
+                    coef    std err          t      P>|t|      [0.025      0.975]
+---------------------------------------------------------------------------------
+const          1250.9485      4.022    311.060      0.000    1243.066    1258.831
+price          -396.6802      0.852   -465.542      0.000    -398.350    -395.010
+sku_name          0.0038      0.002      1.536      0.125      -0.001       0.009
+gender           -6.4052      0.584    -10.960      0.000      -7.551      -5.260
+category         -1.9285      0.142    -13.573      0.000      -2.207      -1.650
+brand            -2.5182      0.271     -9.286      0.000      -3.050      -1.987
+collection       -4.9152      0.328    -14.972      0.000      -5.559      -4.272
+price_tier       -1.1401      0.351     -3.249      0.001      -1.828      -0.452
+style            -3.5533      0.572     -6.208      0.000      -4.675      -2.432
+cost           8.567e+09   2.28e+10      0.376      0.707   -3.61e+10    5.33e+10
+revenue       -8.567e+09   2.28e+10     -0.376      0.707   -5.33e+10    3.61e+10
+profit         8.567e+09   2.28e+10      0.376      0.707   -3.61e+10    5.33e+10
+profit_margin  -480.1747      3.021   -158.949      0.000    -486.096    -474.254
+sales_change      0.0192      0.002      8.860      0.000       0.015       0.023
+==============================================================================
+Omnibus:                    40716.266   Durbin-Watson:                   1.996
+Prob(Omnibus):                  0.000   Jarque-Bera (JB):           266716.159
+Skew:                           1.298   Prob(JB):                         0.00
+Kurtosis:                       9.394   Cond. No.                     2.57e+14
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
+[2] The smallest eigenvalue is 6.84e-18. This might indicate that there are
+strong multicollinearity problems or that the design matrix is singular.
+
+INFO 2023-01-06 22:53:06,947 [root:main.py:buildmodel:103]
+✅ Built model!
+
+INFO 2023-01-06 22:53:06,957 [root:main.py:buildmodel:107]
+✅ Evaluated model!
+
+INFO 2023-01-06 22:58:35,257 [root:main.py:buildmodel:83]
+Building model...
+
+INFO 2023-01-06 22:58:35,261 [root:main.py:buildfeature:68]
+Building features...
+
+INFO 2023-01-06 22:58:35,262 [root:main.py:process:52]
+Processing data...
+
+INFO 2023-01-06 22:58:35,263 [root:main.py:encode:37]
+Encoding categorical columns...
+
+INFO 2023-01-06 22:58:35,263 [root:main.py:ingest:25]
+Ingesting data...
+
+INFO 2023-01-06 22:58:35,552 [root:main.py:ingest:28]
+✅ Ingested data!
+
+INFO 2023-01-06 22:58:35,752 [root:main.py:encode:43]
+✅ Encoded categorical columns!
+
+INFO 2023-01-06 22:58:35,819 [root:main.py:process:59]
+✅ Processed data!
+
+INFO 2023-01-06 22:58:35,843 [root:main.py:buildfeature:74]
+✅ Built features!
+
+INFO 2023-01-06 22:58:36,099 [root:build_model.py:build_model:19]
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:                  sales   R-squared:                       0.965
+Model:                            OLS   Adj. R-squared:                  0.965
+Method:                 Least Squares   F-statistic:                 2.825e+05
+Date:                Fri, 06 Jan 2023   Prob (F-statistic):               0.00
+Time:                        22:58:36   Log-Likelihood:            -8.1402e+05
+No. Observations:              134400   AIC:                         1.628e+06
+Df Residuals:                  134386   BIC:                         1.628e+06
+Df Model:                          13                                         
+Covariance Type:            nonrobust                                         
+=================================================================================
+                    coef    std err          t      P>|t|      [0.025      0.975]
+---------------------------------------------------------------------------------
+const          1250.9485      4.022    311.060      0.000    1243.066    1258.831
+price          -396.6802      0.852   -465.542      0.000    -398.350    -395.010
+sku_name          0.0038      0.002      1.536      0.125      -0.001       0.009
+gender           -6.4052      0.584    -10.960      0.000      -7.551      -5.260
+category         -1.9285      0.142    -13.573      0.000      -2.207      -1.650
+brand            -2.5182      0.271     -9.286      0.000      -3.050      -1.987
+collection       -4.9152      0.328    -14.972      0.000      -5.559      -4.272
+price_tier       -1.1401      0.351     -3.249      0.001      -1.828      -0.452
+style            -3.5533      0.572     -6.208      0.000      -4.675      -2.432
+cost           8.567e+09   2.28e+10      0.376      0.707   -3.61e+10    5.33e+10
+revenue       -8.567e+09   2.28e+10     -0.376      0.707   -5.33e+10    3.61e+10
+profit         8.567e+09   2.28e+10      0.376      0.707   -3.61e+10    5.33e+10
+profit_margin  -480.1747      3.021   -158.949      0.000    -486.096    -474.254
+sales_change      0.0192      0.002      8.860      0.000       0.015       0.023
+==============================================================================
+Omnibus:                    40716.266   Durbin-Watson:                   1.996
+Prob(Omnibus):                  0.000   Jarque-Bera (JB):           266716.159
+Skew:                           1.298   Prob(JB):                         0.00
+Kurtosis:                       9.394   Cond. No.                     2.57e+14
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
+[2] The smallest eigenvalue is 6.84e-18. This might indicate that there are
+strong multicollinearity problems or that the design matrix is singular.
+
+INFO 2023-01-06 22:59:18,447 [root:main.py:buildmodel:83]
+Building model...
+
+INFO 2023-01-06 22:59:18,452 [root:main.py:buildfeature:68]
+Building features...
+
+INFO 2023-01-06 22:59:18,452 [root:main.py:process:52]
+Processing data...
+
+INFO 2023-01-06 22:59:18,453 [root:main.py:encode:37]
+Encoding categorical columns...
+
+INFO 2023-01-06 22:59:18,454 [root:main.py:ingest:25]
+Ingesting data...
+
+INFO 2023-01-06 22:59:18,773 [root:main.py:ingest:28]
+✅ Ingested data!
+
+INFO 2023-01-06 22:59:18,993 [root:main.py:encode:43]
+✅ Encoded categorical columns!
+
+INFO 2023-01-06 22:59:19,056 [root:main.py:process:59]
+✅ Processed data!
+
+INFO 2023-01-06 22:59:19,082 [root:main.py:buildfeature:74]
+✅ Built features!
+
+INFO 2023-01-06 22:59:19,367 [root:build_model.py:build_model:19]
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:                  sales   R-squared:                       0.965
+Model:                            OLS   Adj. R-squared:                  0.965
+Method:                 Least Squares   F-statistic:                 2.825e+05
+Date:                Fri, 06 Jan 2023   Prob (F-statistic):               0.00
+Time:                        22:59:19   Log-Likelihood:            -8.1402e+05
+No. Observations:              134400   AIC:                         1.628e+06
+Df Residuals:                  134386   BIC:                         1.628e+06
+Df Model:                          13                                         
+Covariance Type:            nonrobust                                         
+=================================================================================
+                    coef    std err          t      P>|t|      [0.025      0.975]
+---------------------------------------------------------------------------------
+const          1250.9485      4.022    311.060      0.000    1243.066    1258.831
+price          -396.6802      0.852   -465.542      0.000    -398.350    -395.010
+sku_name          0.0038      0.002      1.536      0.125      -0.001       0.009
+gender           -6.4052      0.584    -10.960      0.000      -7.551      -5.260
+category         -1.9285      0.142    -13.573      0.000      -2.207      -1.650
+brand            -2.5182      0.271     -9.286      0.000      -3.050      -1.987
+collection       -4.9152      0.328    -14.972      0.000      -5.559      -4.272
+price_tier       -1.1401      0.351     -3.249      0.001      -1.828      -0.452
+style            -3.5533      0.572     -6.208      0.000      -4.675      -2.432
+cost           8.567e+09   2.28e+10      0.376      0.707   -3.61e+10    5.33e+10
+revenue       -8.567e+09   2.28e+10     -0.376      0.707   -5.33e+10    3.61e+10
+profit         8.567e+09   2.28e+10      0.376      0.707   -3.61e+10    5.33e+10
+profit_margin  -480.1747      3.021   -158.949      0.000    -486.096    -474.254
+sales_change      0.0192      0.002      8.860      0.000       0.015       0.023
+==============================================================================
+Omnibus:                    40716.266   Durbin-Watson:                   1.996
+Prob(Omnibus):                  0.000   Jarque-Bera (JB):           266716.159
+Skew:                           1.298   Prob(JB):                         0.00
+Kurtosis:                       9.394   Cond. No.                     2.57e+14
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
+[2] The smallest eigenvalue is 6.84e-18. This might indicate that there are
+strong multicollinearity problems or that the design matrix is singular.
+
+INFO 2023-01-06 22:59:20,155 [root:main.py:buildmodel:105]
+✅ Built model!
+
+INFO 2023-01-06 22:59:20,164 [root:main.py:buildmodel:109]
+✅ Evaluated model!
+
+INFO 2023-01-06 23:01:20,019 [root:main.py:buildmodel:83]
+Building model...
+
+INFO 2023-01-06 23:01:20,023 [root:main.py:buildfeature:68]
+Building features...
+
+INFO 2023-01-06 23:01:20,024 [root:main.py:process:52]
+Processing data...
+
+INFO 2023-01-06 23:01:20,025 [root:main.py:encode:37]
+Encoding categorical columns...
+
+INFO 2023-01-06 23:01:20,026 [root:main.py:ingest:25]
+Ingesting data...
+
+INFO 2023-01-06 23:01:20,443 [root:main.py:ingest:28]
+✅ Ingested data!
+
+INFO 2023-01-06 23:01:20,718 [root:main.py:encode:43]
+✅ Encoded categorical columns!
+
+INFO 2023-01-06 23:01:20,808 [root:main.py:process:59]
+✅ Processed data!
+
+INFO 2023-01-06 23:01:20,836 [root:main.py:buildfeature:74]
+✅ Built features!
+
+INFO 2023-01-06 23:01:21,204 [root:build_model.py:build_model:19]
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:                  sales   R-squared:                       0.965
+Model:                            OLS   Adj. R-squared:                  0.965
+Method:                 Least Squares   F-statistic:                 2.825e+05
+Date:                Fri, 06 Jan 2023   Prob (F-statistic):               0.00
+Time:                        23:01:21   Log-Likelihood:            -8.1402e+05
+No. Observations:              134400   AIC:                         1.628e+06
+Df Residuals:                  134386   BIC:                         1.628e+06
+Df Model:                          13                                         
+Covariance Type:            nonrobust                                         
+=================================================================================
+                    coef    std err          t      P>|t|      [0.025      0.975]
+---------------------------------------------------------------------------------
+const          1250.9485      4.022    311.060      0.000    1243.066    1258.831
+price          -396.6802      0.852   -465.542      0.000    -398.350    -395.010
+sku_name          0.0038      0.002      1.536      0.125      -0.001       0.009
+gender           -6.4052      0.584    -10.960      0.000      -7.551      -5.260
+category         -1.9285      0.142    -13.573      0.000      -2.207      -1.650
+brand            -2.5182      0.271     -9.286      0.000      -3.050      -1.987
+collection       -4.9152      0.328    -14.972      0.000      -5.559      -4.272
+price_tier       -1.1401      0.351     -3.249      0.001      -1.828      -0.452
+style            -3.5533      0.572     -6.208      0.000      -4.675      -2.432
+cost           8.567e+09   2.28e+10      0.376      0.707   -3.61e+10    5.33e+10
+revenue       -8.567e+09   2.28e+10     -0.376      0.707   -5.33e+10    3.61e+10
+profit         8.567e+09   2.28e+10      0.376      0.707   -3.61e+10    5.33e+10
+profit_margin  -480.1747      3.021   -158.949      0.000    -486.096    -474.254
+sales_change      0.0192      0.002      8.860      0.000       0.015       0.023
+==============================================================================
+Omnibus:                    40716.266   Durbin-Watson:                   1.996
+Prob(Omnibus):                  0.000   Jarque-Bera (JB):           266716.159
+Skew:                           1.298   Prob(JB):                         0.00
+Kurtosis:                       9.394   Cond. No.                     2.57e+14
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
+[2] The smallest eigenvalue is 6.84e-18. This might indicate that there are
+strong multicollinearity problems or that the design matrix is singular.
+
+INFO 2023-01-06 23:01:36,486 [root:main.py:buildmodel:83]
+Building model...
+
+INFO 2023-01-06 23:01:36,490 [root:main.py:buildfeature:68]
+Building features...
+
+INFO 2023-01-06 23:01:36,491 [root:main.py:process:52]
+Processing data...
+
+INFO 2023-01-06 23:01:36,492 [root:main.py:encode:37]
+Encoding categorical columns...
+
+INFO 2023-01-06 23:01:36,493 [root:main.py:ingest:25]
+Ingesting data...
+
+INFO 2023-01-06 23:01:36,827 [root:main.py:ingest:28]
+✅ Ingested data!
+
+INFO 2023-01-06 23:01:37,054 [root:main.py:encode:43]
+✅ Encoded categorical columns!
+
+INFO 2023-01-06 23:01:37,123 [root:main.py:process:59]
+✅ Processed data!
+
+INFO 2023-01-06 23:01:37,148 [root:main.py:buildfeature:74]
+✅ Built features!
+
+INFO 2023-01-06 23:01:37,405 [root:build_model.py:build_model:19]
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:                  sales   R-squared:                       0.965
+Model:                            OLS   Adj. R-squared:                  0.965
+Method:                 Least Squares   F-statistic:                 2.825e+05
+Date:                Fri, 06 Jan 2023   Prob (F-statistic):               0.00
+Time:                        23:01:37   Log-Likelihood:            -8.1402e+05
+No. Observations:              134400   AIC:                         1.628e+06
+Df Residuals:                  134386   BIC:                         1.628e+06
+Df Model:                          13                                         
+Covariance Type:            nonrobust                                         
+=================================================================================
+                    coef    std err          t      P>|t|      [0.025      0.975]
+---------------------------------------------------------------------------------
+const          1250.9485      4.022    311.060      0.000    1243.066    1258.831
+price          -396.6802      0.852   -465.542      0.000    -398.350    -395.010
+sku_name          0.0038      0.002      1.536      0.125      -0.001       0.009
+gender           -6.4052      0.584    -10.960      0.000      -7.551      -5.260
+category         -1.9285      0.142    -13.573      0.000      -2.207      -1.650
+brand            -2.5182      0.271     -9.286      0.000      -3.050      -1.987
+collection       -4.9152      0.328    -14.972      0.000      -5.559      -4.272
+price_tier       -1.1401      0.351     -3.249      0.001      -1.828      -0.452
+style            -3.5533      0.572     -6.208      0.000      -4.675      -2.432
+cost           8.567e+09   2.28e+10      0.376      0.707   -3.61e+10    5.33e+10
+revenue       -8.567e+09   2.28e+10     -0.376      0.707   -5.33e+10    3.61e+10
+profit         8.567e+09   2.28e+10      0.376      0.707   -3.61e+10    5.33e+10
+profit_margin  -480.1747      3.021   -158.949      0.000    -486.096    -474.254
+sales_change      0.0192      0.002      8.860      0.000       0.015       0.023
+==============================================================================
+Omnibus:                    40716.266   Durbin-Watson:                   1.996
+Prob(Omnibus):                  0.000   Jarque-Bera (JB):           266716.159
+Skew:                           1.298   Prob(JB):                         0.00
+Kurtosis:                       9.394   Cond. No.                     2.57e+14
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
+[2] The smallest eigenvalue is 6.84e-18. This might indicate that there are
+strong multicollinearity problems or that the design matrix is singular.
+
+INFO 2023-01-06 23:01:37,830 [root:main.py:buildmodel:106]
+✅ Built model!
+
+INFO 2023-01-06 23:01:37,838 [root:main.py:buildmodel:110]
+✅ Evaluated model!
+
